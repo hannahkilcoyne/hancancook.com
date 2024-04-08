@@ -5,11 +5,14 @@ tags:
   - Baked goods
   - Chicken
   - Entree
+thumbnail: chp1.jpg
 categories:
   - Recipe
-thumbnail: chp1.jpg
+header_image: chp1.jpg
 
 ---
+
+![Image of Individual Chicken Hand Pies.](/upload/chp1.jpg)
 
 There's a "famous" chicken pot pie company around here. I heard about this company on The Phantom Gourmet way before I knew anything else about this area. Their pies are filled with a lot of white gravy and chicken, but not much else in the way of filling. In contrast, you can eat the filling in these hand pies by itself with a fork (and I have). This filing is thick and full of veggies, and I like these pies much better than the famous ones. The best part is that you get a lot more crust with these individual pies than with a full size chicken pot pie.  
   

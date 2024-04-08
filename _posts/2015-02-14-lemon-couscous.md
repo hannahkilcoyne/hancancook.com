@@ -5,11 +5,14 @@ tags:
   - Vegetarian
   - Dairy free
   - Side
+thumbnail: couscous2.jpg
 categories:
   - Recipe
-thumbnail: couscous2.jpg
+header_image: couscous2.jpg
 
 ---
+
+![Image of Lemon Couscous.](/upload/couscous2.jpg)
 
 I'm not sure that this couscous is worth posting; it couldn't be more basic, but it is something I have made multiple times, and it makes a great background dish for more exciting mains dishes like these [Moroccan Meatballs](http://www.hannahkilcoyne.com/2015/02/moroccan-meatballs.html). And I just love lemon.  
   

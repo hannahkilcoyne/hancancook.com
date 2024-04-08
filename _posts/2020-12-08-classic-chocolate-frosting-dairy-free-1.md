@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Classic Chocolate Frosting (Dairy Free)
+header_image: /img_0082.jpeg
 categories: []
 tags:
   - Dessert
@@ -9,6 +10,8 @@ tags:
 thumbnail: /img_0082.jpeg
 
 ---
+
+![Image of Classic Chocolate Frosting (Dairy Free).](/upload//img_0082.jpeg)
 
 Maybe it's just me, but I was raised on boxed cake mix and canned frosting, so while I had my heart set on making my baby boy a cake from scratch for his first birthday, my definition of success is that it tasted like it came from a box. To me, this frosting tastes like store bought frosting (in a good way)! I made three batches because I wanted it to be right, and I feel that Crisco (regular, not butter flavored) tasted much better than Earth Balance. This frosting isn't any worse off for being diary free/vegan. I'm really happy with how it turned out and would definitely make it again.
 

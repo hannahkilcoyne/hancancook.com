@@ -2,11 +2,14 @@
 layout: post
 title: Nine paint samples later
 tags: []
+thumbnail: IMG_3322.jpg
 categories:
   - House
-thumbnail: IMG_3322.jpg
+header_image: IMG_3322.jpg
 
 ---
+
+![Image of Nine paint samples later.](/upload/IMG_3322.jpg)
 
 The master bedroom, which was a strange mix of wood paneling and floral wallpaper when we moved in, is finally painted.  
   

@@ -2,11 +2,14 @@
 layout: post
 title: Ry's Office
 tags: []
+thumbnail: office1.jpg
 categories:
   - House
-thumbnail: office1.jpg
+header_image: office1.jpg
 
 ---
+
+![Image of Ry's Office.](/upload/office1.jpg)
 
 Funny story... When I posted about painting [Ryan's office](http://www.hannahkilcoyne.com/2016/08/scholar-green-for-office.html), my one subscriber (that would be Ryan) noticed something. As it turns out I painted the office the wrong color! The color was supposed to be [Windsor](http://www.homedepot.com/p/Ralph-Lauren-1-gal-Windsor-Flat-Interior-Paint-RL1717F/205175142), but I painted it [Scholar Green](http://www.homedepot.com/p/Ralph-Lauren-1-gal-Scholar-Green-Flat-Interior-Paint-RL1641F/205175178). Oops.  
   

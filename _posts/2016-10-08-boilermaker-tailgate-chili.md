@@ -6,11 +6,14 @@ tags:
   - Beef
   - Soups
   - Entree
+thumbnail: btc-copy.jpg
 categories:
   - Recipe
-thumbnail: btc-copy.jpg
+header_image: btc-copy.jpg
 
 ---
+
+![Image of Boilermaker Tailgate Chili.](/upload/btc-copy.jpg)
 
 This chili recipe is one of the first things I ever cooked, so I have a lot of nostalgia towards it.  
   

@@ -4,11 +4,14 @@ title: Simple Tomato Sauce
 tags:
   - Vegetarian
   - Sauces and salsas
+thumbnail: mar01.jpg
 categories:
   - Recipe
-thumbnail: mar01.jpg
+header_image: mar01.jpg
 
 ---
+
+![Image of Simple Tomato Sauce.](/upload/mar01.jpg)
 
 [Source.](http://steamykitchen.com/8375-marcella-hazan-tomato-sauce-with-onion-butter.html)
 

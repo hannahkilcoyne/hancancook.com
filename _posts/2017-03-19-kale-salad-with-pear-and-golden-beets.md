@@ -5,11 +5,14 @@ tags:
   - Vegetarian
   - Vegetables
   - Salad
+thumbnail: rb1.jpg
 categories:
   - Recipe
-thumbnail: rb1.jpg
+header_image: rb1.jpg
 
 ---
+
+![Image of Kale Salad with Pear and Golden Beets.](/upload/rb1.jpg)
 
 This is a remake of a salad I can't stop ordering for lunch delivery. For a salad to be satisfying, it can't be one note. I think the reason this salad is so addicting is the balance of salty and sweet flavors.  
   

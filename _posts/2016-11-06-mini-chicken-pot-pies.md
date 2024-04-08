@@ -4,11 +4,14 @@ title: Mini Chicken Pot Pies
 tags:
   - Chicken
   - Entree
+thumbnail: cp4.jpg
 categories:
   - Recipe
-thumbnail: cp4.jpg
+header_image: cp4.jpg
 
 ---
+
+![Image of Mini Chicken Pot Pies.](/upload/cp4.jpg)
 
 I have updated the [Individual Chicken Hand Pies](http://www.hannahkilcoyne.com/2015/09/individual-chicken-hand-pies.html) I posted last year to make these Mini Chicken Pot Pies. The hand pies have a high crust to filling ratio, which I love, but it's not everyone's favorite. And as anyone who knows me knows, I'm just the kind of person who is very accommodating and responsive to feedback. These pot pies turned out great, and it's a little less work to make them this way, so I will probably make them like this from now on. Everyone's happy!  
   

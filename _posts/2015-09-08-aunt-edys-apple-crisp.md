@@ -2,11 +2,14 @@
 layout: post
 title: Aunt Edy's Apple Crisp
 tags: []
+thumbnail: IMG_1892.jpg
 categories:
   - Recipe
-thumbnail: IMG_1892.jpg
+header_image: IMG_1892.jpg
 
 ---
+
+![Image of Aunt Edy's Apple Crisp.](/upload/IMG_1892.jpg)
 
 I have made reference here to my Treasured Recipes google doc [before](http://www.hannahkilcoyne.com/2015/01/vanilla-sugar-cookies.html), and this is another top recipe from my files. In my opinion, this is the best apple crisp ever. I remember tasting someone else's self proclaimed best apple crisp ever many years ago, and realizing acutely how often "best ever" can just be translated to "the version I grew up with". That is certainly the case here. The title of this recipe comes not from me, but from my Grandmother - this is her aunt Edy's recipe for apple crisp, and I kind of like the idea that it has been made by people in my family for generations.  
   

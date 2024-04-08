@@ -5,11 +5,14 @@ tags:
   - Vegetarian
   - Vegetables
   - Side
+thumbnail: kp2.jpg
 categories:
   - Recipe
-thumbnail: kp2.jpg
+header_image: kp2.jpg
 
 ---
+
+![Image of Roasted Potatoes with Kale Pesto.](/upload/kp2.jpg)
 
 This is the best way to eat kale - steeped in lemon, garlic, and cheese! These potatoes are great with any kind of roast. I love pretty much any variation on potatoes, and I like that this one has some green mixed in.  
   

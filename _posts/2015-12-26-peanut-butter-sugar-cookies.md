@@ -5,11 +5,14 @@ tags:
   - Vegetarian
   - Cookies
   - Baked goods
+thumbnail: IMG_3793.jpg
 categories:
   - Recipe
-thumbnail: IMG_3793.jpg
+header_image: IMG_3793.jpg
 
 ---
+
+![Image of Peanut Butter Sugar Cookies.](/upload/IMG_3793.jpg)
 
 I love peanut butter, but I also usually prefer rolled out cookies to the more classic crumbly peanut butter cookies. These peanut butter sugar cookies have become one of my new favorites over the past few years. They're great solo, or as suggested by the original author, they can be dipped in melted chocolate. They can also be sandwiched with jam (I used [Santa Cruz](http://www.santacruzorganic.com/products/fruit-spreads/seedless-red-raspberry) Organic Seedless Raspberry) to make PB&J Cookie Sandwiches!
 

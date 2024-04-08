@@ -3,11 +3,14 @@ layout: post
 title: " Taco Seasoned Ground Beef"
 categories:
   - Recipe
+header_image: gb.jpg
 tags:
   - Beef
 thumbnail: gb.jpg
 
 ---
+
+![Image of  Taco Seasoned Ground Beef.](/upload/gb.jpg)
 
 ## Ingredients
 

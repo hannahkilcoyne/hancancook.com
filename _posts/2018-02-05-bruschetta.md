@@ -4,11 +4,14 @@ title: " Bruschetta"
 tags:
   - Vegetarian
   - Appetizer
+thumbnail: IMG_6053.jpg
 categories:
   - Recipe
-thumbnail: IMG_6053.jpg
+header_image: IMG_6053.jpg
 
 ---
+
+![Image of  Bruschetta.](/upload/IMG_6053.jpg)
 
 I made this bruschetta to complement my [No-Knead Bread](http://www.hannahkilcoyne.com/2017/12/no-knead-bread.html). I like this recipe because you dispense with the seeds and water in the tomatoes. That way, the mixture isn't too wet and doesn't make the toast soggy. The fresh basil and garlic gives the bruschetta a fresh flavor.
 

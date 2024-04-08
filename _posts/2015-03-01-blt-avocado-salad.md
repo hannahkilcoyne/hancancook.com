@@ -4,11 +4,14 @@ title: BLT Avocado Salad
 tags:
   - Pork
   - Salad
+thumbnail: blta4.jpg
 categories:
   - Recipe
-thumbnail: blta4.jpg
+header_image: blta4.jpg
 
 ---
+
+![Image of BLT Avocado Salad.](/upload/blta4.jpg)
 
 I have said it before and I will say it again. Bacon and avocado is one of life's great flavor combinations. This is my favorite salad, and I had the urge to make it today even though it is not summer yet, avocados are not really in season, and there was no corn on the cob at the supermarket for me to add to the salad. I generally believe that salads are better when you are not the person who makes them, but this one is an exception. It's super good even when you make it yourself.
 

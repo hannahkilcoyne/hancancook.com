@@ -4,11 +4,14 @@ title: Ryan's Chicken Parmesan
 tags:
   - Chicken
   - Entree
+thumbnail: cp12.jpg
 categories:
   - Recipe
-thumbnail: cp12.jpg
+header_image: cp12.jpg
 
 ---
+
+![Image of Ryan's Chicken Parmesan.](/upload/cp12.jpg)
 
 I'm very excited to have this guest post from Ryan. If we're not including grilling or smoking, I would call Chicken Parmesan his signature dish. If you have ever been so lucky as to try it, and asked yourself "how did it get so crispy?" your answer is finally here. Without further ado:
 

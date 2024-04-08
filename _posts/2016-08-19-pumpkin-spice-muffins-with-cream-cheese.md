@@ -6,11 +6,14 @@ tags:
   - Vegetarian
   - Muffins
   - Baked goods
+thumbnail: psm3.jpg
 categories:
   - Recipe
-thumbnail: psm3.jpg
+header_image: psm3.jpg
 
 ---
+
+![Image of Pumpkin Spice Muffins with Cream Cheese Swirl.](/upload/psm3.jpg)
 
 I blew all my money on Pumpkin Spice Lattes and Pumpkin Muffins the first semester I lived in Boston. So naturally I pinned [this recipe](http://www.annies-eats.com/2010/10/08/pumpkin-cream-cheese-muffins/) for knock off Starbucks Pumpkin Muffins ages ago, and eventually tried it out. The muffins were good, but the recipe was a lot of work and I haven't made it again. I went searching again for another pumpkin muffin recipe, and I'm so glad I found this one.
 

@@ -5,11 +5,14 @@ tags:
   - Dairy free
   - Entree
   - Beef
+thumbnail: sp02.jpg
 categories:
   - Recipe
-thumbnail: sp02.jpg
+header_image: sp02.jpg
 
 ---
+
+![Image of Spinach Meatballs.](/upload/sp02.jpg)
 
 I don't really have a recipe for regular meatballs, even though I make them all the time. I learned to make them from my dad. Mine still never turn out as well as his, so it would seem wrong for me to post a recipe for them. But it is my own variation to add spinach, so here's the recipe for my Spinach Meatballs.
 

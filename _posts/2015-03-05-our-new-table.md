@@ -2,11 +2,14 @@
 layout: post
 title: Our New Table
 tags: []
+thumbnail: table1.jpg
 categories:
   - House
-thumbnail: table1.jpg
+header_image: table1.jpg
 
 ---
+
+![Image of Our New Table.](/upload/table1.jpg)
 
 Walnut Trestle Table custom built by [Lorimer Workshop](http://lorimerworkshop.com/)
 

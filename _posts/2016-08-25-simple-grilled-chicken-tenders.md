@@ -4,11 +4,14 @@ title: Simple Grilled Chicken Tenders
 tags:
   - Chicken
   - Entree
+thumbnail: gct.jpg
 categories:
   - Recipe
-thumbnail: gct.jpg
+header_image: gct.jpg
 
 ---
+
+![Image of Simple Grilled Chicken Tenders.](/upload/gct.jpg)
 
 **Simple Grilled Chicken Tenders**  
 1 lb chicken tenderloins  

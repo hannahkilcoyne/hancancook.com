@@ -2,11 +2,14 @@
 layout: post
 title: Apple Bread Pudding
 tags: []
+thumbnail: abp1.jpg
 categories:
   - Recipe
-thumbnail: abp1.jpg
+header_image: abp1.jpg
 
 ---
+
+![Image of Apple Bread Pudding.](/upload/abp1.jpg)
 
 I don't often cook from recipes printed in the newspaper; I'm a blog person. But I was flipping through [Boston Globe Magazine](https://www.bostonglobe.com/magazine/2017/10/13/recipes-three-apple-desserts-with-english-twist/eDlfj039vKFmX5A8zNJZaK/story.html) on an empty stomach a few weeks ago, and the gorgeous photograph of this bread pudding jumped out at me. This recipe uses 4 pounds of apples, so with a bushel of pick-your-own apples languishing in my kitchen, this weekend was the perfect time to try it.  
   

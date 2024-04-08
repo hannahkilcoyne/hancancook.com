@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Cranberry Orange Muffins
+header_image: /5203a529-258c-4939-9267-dcf91f05147f.jpeg
 categories:
   - Recipe
 tags:
@@ -11,6 +12,8 @@ tags:
 thumbnail: /5203a529-258c-4939-9267-dcf91f05147f.jpeg
 
 ---
+
+![Image of Cranberry Orange Muffins.](/upload//5203a529-258c-4939-9267-dcf91f05147f.jpeg)
 
 ## Ingredients
 

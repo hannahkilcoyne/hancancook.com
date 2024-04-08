@@ -5,11 +5,14 @@ tags:
   - Side
   - Pork
   - Thanksgiving
+thumbnail: sas1.jpg
 categories:
   - Recipe
-thumbnail: sas1.jpg
+header_image: sas1.jpg
 
 ---
+
+![Image of Simple Apple and Sausage Stuffing.](/upload/sas1.jpg)
 
 Stuffing is tough. There are so many variations out there, and I don't feel like I have found my absolute go to recipe yet. I'm happy to keep trying tasty new recipes every year at Thanksgiving. In fact I'm already pinning some more recipes to make outside of the Thanksgiving season. Why not?  
   

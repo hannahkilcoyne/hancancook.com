@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Tunisian Spiced Meatballs with Apricot Glaze
+header_image: /img_9885.jpeg
 categories:
   - Recipe
 tags:
@@ -10,6 +11,8 @@ tags:
 thumbnail: /img_9885.jpeg
 
 ---
+
+![Image of Tunisian Spiced Meatballs with Apricot Glaze.](/upload//img_9885.jpeg)
 
 A surprise Hello Fresh box was mistakenly delivered to our house (we were told to keep it) and this was the best thing to come out of it! These addictive meatballs have made their way into our weekly rotation. Someday I totally intend to get back to sharing better photos than iPhone photos, but I had to blog this to keep track of the spice blend. Hello Fresh does not tell you what's in their spice blend, so it took a few tries to perfect.
 

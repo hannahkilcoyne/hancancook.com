@@ -5,11 +5,14 @@ tags:
   - Dairy free
   - Entree
   - Chicken
+thumbnail: tc1.jpg
 categories:
   - Recipe
-thumbnail: tc1.jpg
+header_image: tc1.jpg
 
 ---
+
+![Image of Teriyaki Chicken.](/upload/tc1.jpg)
 
 I'm so happy to have found this recipe before New York Times Cooking went behind a paywall. I've been making this chicken a lot this summer and I think it's a new favorite. You have to plan ahead a little, but it's easy to put the marinade together the day before, and then even easier to grill the chicken the next day.  
   

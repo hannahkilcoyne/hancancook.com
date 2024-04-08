@@ -6,11 +6,14 @@ tags:
   - Vegetarian
   - Thanksgiving
   - Side
+thumbnail: hv2.jpg
 categories:
   - Recipe
-thumbnail: hv2.jpg
+header_image: hv2.jpg
 
 ---
+
+![Image of Green Beans with Caramelized Onions.](/upload/hv2.jpg)
 
 I know that green bean casserole with with crispy onions on top is a traditional thing at Thanksgiving. I have actually never tried it because I don't think anyone in my family makes it. These green beans seem to be a variation on the same theme, pairing the green beans with caramelized onions. What I like about this recipe is that the caramelized onions dress up the otherwise basic green beans, but they can be made ahead. This dish takes only minutes to make on Thanksgiving day. In fact, I had enough time to sneak in some quick pictures before serving it up today.  
   

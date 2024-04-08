@@ -6,11 +6,14 @@ tags:
   - Vegetables
   - Thanksgiving
   - Side
+thumbnail: spl3.jpg
 categories:
   - Recipe
-thumbnail: spl3.jpg
+header_image: spl3.jpg
 
 ---
+
+![Image of Mashed Sweet Potato with Lime.](/upload/spl3.jpg)
 
 The hot bar at Whole Foods sometimes has mashed sweet potato with lime, and it's so addictingly good, I wanted to try making it at home. Although I couldn't find a recipe straight from Whole Foods, I think this is pretty close.  
   

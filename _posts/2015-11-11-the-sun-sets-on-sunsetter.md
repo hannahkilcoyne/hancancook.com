@@ -2,11 +2,14 @@
 layout: post
 title: The Sun Sets on the Sunsetter
 tags: []
+thumbnail: IMG_2935.jpg
 categories:
   - House
-thumbnail: IMG_2935.jpg
+header_image: IMG_2935.jpg
 
 ---
+
+![Image of The Sun Sets on the Sunsetter.](/upload/IMG_2935.jpg)
 
 After having the house painted, it highlighted how badly I wanted to take the sunsetter down. According to one of our neighbors, this thing probably worked, but we could never figure out how. We have an umbrella on the deck, so it was not necessary.  
   

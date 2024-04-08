@@ -3,11 +3,14 @@ layout: post
 title: Creamy Tomato Basil Soup with Tortellini
 tags:
   - Soup
+thumbnail: tbs.jpg
 categories:
   - Recipe
-thumbnail: tbs.jpg
+header_image: tbs.jpg
 
 ---
+
+![Image of Creamy Tomato Basil Soup with Tortellini.](/upload/tbs.jpg)
 
 **Creamy Tomato Basil Soup with Tortellini**  
   

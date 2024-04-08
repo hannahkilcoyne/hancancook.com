@@ -2,11 +2,14 @@
 layout: post
 title: Sweet Potato Hash
 tags: []
+thumbnail: hash_1.jpg
 categories:
   - Recipe
-thumbnail: hash_1.jpg
+header_image: hash_1.jpg
 
 ---
+
+![Image of Sweet Potato Hash.](/upload/hash_1.jpg)
 
 **Sweet Potato Hash**  
   

@@ -4,11 +4,14 @@ title: Moroccan Meatballs
 tags:
   - Beef
   - Entree
+thumbnail: mm_9.jpg
 categories:
   - Recipe
-thumbnail: mm_9.jpg
+header_image: mm_9.jpg
 
 ---
+
+![Image of Moroccan Meatballs.](/upload/mm_9.jpg)
 
 These Moroccan Meatballs are definitely a favorite meal in our house. The first time I made them, I felt like I was taking a bit of a risk. I knew I was a fan of spiced meats like this, but I had never made something myself with these spice combinations. I mean, cinnamon in meatballs? But I had a good feeling that this recipe would be a winner, and it did not disappoint.
 

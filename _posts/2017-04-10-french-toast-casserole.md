@@ -5,11 +5,14 @@ tags:
   - Vegetarian
   - Baked goods
   - Breakfast
+thumbnail: ftc1.jpg
 categories:
   - Recipe
-thumbnail: ftc1.jpg
+header_image: ftc1.jpg
 
 ---
+
+![Image of French Toast Casserole.](/upload/ftc1.jpg)
 
 This baked french toast is an Easter Brunch staple. Like most Pioneer Woman recipes, it's really over the top -- never in my life have I made something with two entire tablespoons of vanilla extract before. I'm a big fan of bread pudding, which is basically what this is. You can make this ahead and keep it in the fridge overnight before baking.
 

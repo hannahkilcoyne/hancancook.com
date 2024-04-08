@@ -5,11 +5,14 @@ tags:
   - Vegetarian
   - Vegetables
   - Side
+thumbnail: gmp.jpg
 categories:
   - Recipe
-thumbnail: gmp.jpg
+header_image: gmp.jpg
 
 ---
+
+![Image of Mashed Garlic and Rosemary Red Potatoes.](/upload/gmp.jpg)
 
 **Mashed Red Potatoes with Garlic and Rosemary**  
   

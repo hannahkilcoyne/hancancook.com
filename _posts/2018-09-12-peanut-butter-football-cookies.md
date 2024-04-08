@@ -5,11 +5,14 @@ tags:
   - Vegetarian
   - Cookies
   - Baked goods
+thumbnail: pf1.jpg
 categories:
   - Recipe
-thumbnail: pf1.jpg
+header_image: pf1.jpg
 
 ---
+
+![Image of Peanut Butter Football Cookies.](/upload/pf1.jpg)
 
 Let it be known that Ryan drew these laces.
 

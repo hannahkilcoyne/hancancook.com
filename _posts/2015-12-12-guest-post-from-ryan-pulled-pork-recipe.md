@@ -4,11 +4,14 @@ title: "Guest Post from Ryan: Pulled Pork Recipe"
 tags:
   - Pork
   - Entree
+thumbnail: IMG_1701.jpg
 categories:
   - Recipe
-thumbnail: IMG_1701.jpg
+header_image: IMG_1701.jpg
 
 ---
+
+![Image of Guest Post from Ryan: Pulled Pork Recipe.](/upload/IMG_1701.jpg)
 
 About ten or so years ago I first experienced the pride of cooking a well-enjoyed meal. On vacation in rural Western Massachusetts, I cooked Hannah and some of our friends burgers. I wasn’t expecting anything beyond adequacy. There was no lightning on the porch with the grill, so it was lit by the headlights of my Altima. I was very pleasantly surprised to have so many complements. Since then, burgers have always been the one thing I can cook well.  
   

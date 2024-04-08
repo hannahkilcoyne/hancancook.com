@@ -4,11 +4,14 @@ title: Baked Buffalo Wings
 tags:
   - Appetizer
   - Chicken
+thumbnail: bw2.jpg
 categories:
   - Recipe
-thumbnail: bw2.jpg
+header_image: bw2.jpg
 
 ---
+
+![Image of Baked Buffalo Wings.](/upload/bw2.jpg)
 
 What can I say about these buffalo wings? Ryan really liked them.
 

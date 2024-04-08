@@ -4,11 +4,14 @@ title: Skillet Lasagna
 tags:
   - Pork
   - Entree
+thumbnail: skl1.jpg
 categories:
   - Recipe
-thumbnail: skl1.jpg
+header_image: skl1.jpg
 
 ---
+
+![Image of Skillet Lasagna.](/upload/skl1.jpg)
 
 So easy. So cheesy!  
   

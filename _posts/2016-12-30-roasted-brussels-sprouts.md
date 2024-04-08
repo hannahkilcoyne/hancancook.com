@@ -7,11 +7,14 @@ tags:
   - Vegetarian
   - Vegetables
   - Side
+thumbnail: rbs1.jpg
 categories:
   - Recipe
-thumbnail: rbs1.jpg
+header_image: rbs1.jpg
 
 ---
+
+![Image of  Roasted Brussels Sprouts.](/upload/rbs1.jpg)
 
 ## Ingredients
 

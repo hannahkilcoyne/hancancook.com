@@ -6,11 +6,14 @@ tags:
   - Vegetarian
   - Thanksgiving
   - Baked goods
+thumbnail: 2018-11-17-SPP2.jpg
 categories:
   - Recipe
-thumbnail: 2018-11-17-SPP2.jpg
+header_image: 2018-11-17-SPP2.jpg
 
 ---
+
+![Image of Sweet Potato Pie.](/upload/2018-11-17-SPP2.jpg)
 
 Here's a recipe I tested ahead of Thanksgiving. This recipe is super easy, comes out pretty and is a little more unexpected than a classic pumpkin pie. Compared to pumpkin, this pie is much sweeter and has a beautiful smooth texture. Give it a try!  
   

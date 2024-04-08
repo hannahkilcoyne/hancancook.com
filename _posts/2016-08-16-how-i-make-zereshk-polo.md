@@ -4,11 +4,14 @@ title: How I Make Zereshk Polo
 tags:
   - Vegetarian
   - Side
+thumbnail: zp1.jpg
 categories:
   - Recipe
-thumbnail: zp1.jpg
+header_image: zp1.jpg
 
 ---
+
+![Image of How I Make Zereshk Polo.](/upload/zp1.jpg)
 
 It took a few years for me to find out what Zereshk even is. At first I thought they were currants, but eventually discovered they are actually barberries. Zereshk Polo is Persian rice with barberries on top. It's buttery, sweet, tart and delicious - one of my favorite dishes. You can also add saffron to the rice, which is very nice aesthetically but doesn't add much to the flavor for me, so I didn't bother this time.  
   

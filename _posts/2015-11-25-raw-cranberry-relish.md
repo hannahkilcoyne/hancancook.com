@@ -7,11 +7,14 @@ tags:
   - Dairy free
   - Thanksgiving
   - Side
+thumbnail: cr3.jpg
 categories:
   - Recipe
-thumbnail: cr3.jpg
+header_image: cr3.jpg
 
 ---
+
+![Image of Raw Cranberry Relish.](/upload/cr3.jpg)
 
 I love this tart and spicy relish to cut through the other, heavier sides served at thanksgiving. It couldn't be easier, because you simply throw the whole fruits into the food processor without removing the skin or seeds.  
   

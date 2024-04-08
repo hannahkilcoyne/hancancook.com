@@ -2,11 +2,14 @@
 layout: post
 title: New Year, New Closet
 tags: []
+thumbnail: cl03.jpg
 categories:
   - House
-thumbnail: cl03.jpg
+header_image: cl03.jpg
 
 ---
+
+![Image of New Year, New Closet.](/upload/cl03.jpg)
 
 Is there anything a trip to the Container Store can't fix?
 

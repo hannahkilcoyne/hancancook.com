@@ -6,11 +6,14 @@ tags:
   - Dairy free
   - Vegetarian
   - Drinks
+thumbnail: ic2.jpg
 categories:
   - Recipe
-thumbnail: ic2.jpg
+header_image: ic2.jpg
 
 ---
+
+![Image of Cold Brew Iced Coffee.](/upload/ic2.jpg)
 
 Realistically there's still tons of snow on the ground, there is more snow coming, and it is still winter. But this week it cracked 60°, the sun stayed up past 6:00 pm, and I made my first batch of cold brew iced coffee. Feels like spring!  
 

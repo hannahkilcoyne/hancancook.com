@@ -6,11 +6,14 @@ tags:
   - Vegetarian
   - Vegetables
   - Side
+thumbnail: lemon-herb-potatoes.jpg
 categories:
   - Recipe
-thumbnail: lemon-herb-potatoes.jpg
+header_image: lemon-herb-potatoes.jpg
 
 ---
+
+![Image of Lemon Rosemary Potatoes.](/upload/lemon-herb-potatoes.jpg)
 
 **Lemon Rosemary Potatoes**  
 Serves 2  

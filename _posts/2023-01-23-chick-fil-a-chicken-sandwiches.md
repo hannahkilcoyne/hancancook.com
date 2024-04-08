@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Chick-fil-A Chicken Sandwiches
+header_image: /img_3279.jpeg
 categories:
   - Recipe
 tags:
@@ -11,6 +12,8 @@ tags:
 thumbnail: /img_3279.jpeg
 
 ---
+
+![Image of Chick-fil-A Chicken Sandwiches.](/upload//img_3279.jpeg)
 
 ## Ingredients
 

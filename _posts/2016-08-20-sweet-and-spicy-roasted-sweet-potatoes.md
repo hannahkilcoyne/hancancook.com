@@ -6,11 +6,14 @@ tags:
   - Dairy free
   - Vegetables
   - Vegetarian
+thumbnail: bsp1.jpg
 categories:
   - Recipe
-thumbnail: bsp1.jpg
+header_image: bsp1.jpg
 
 ---
+
+![Image of Sweet and Spicy Roasted Sweet Potatoes.](/upload/bsp1.jpg)
 
 **Sweet and Spicy Roasted Sweet Potatoes**  
   

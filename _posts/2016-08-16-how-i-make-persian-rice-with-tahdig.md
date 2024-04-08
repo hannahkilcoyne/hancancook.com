@@ -5,11 +5,14 @@ tags:
   - Vegetarian
   - Dairy free
   - Side
+thumbnail: br1.jpg
 categories:
   - Recipe
-thumbnail: br1.jpg
+header_image: br1.jpg
 
 ---
+
+![Image of How I Make Persian Rice with Tahdig.](/upload/br1.jpg)
 
 **Persian Rice with Tahdig**  
   

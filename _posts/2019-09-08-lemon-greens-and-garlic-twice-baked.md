@@ -6,11 +6,14 @@ tags:
   - Vegetarian
   - Vegetables
   - Appetizer
+thumbnail: /img_6303.jpg
 categories:
   - Recipe
-thumbnail: /img_6303.jpg
+header_image: /img_6303.jpg
 
 ---
+
+![Image of Lemon, Greens and Garlic Twice-Baked Potatoes.](/upload//img_6303.jpg)
 
 The first time I made these relatively healthy looking twice-baked potatoes, I hedged my bets and made a batch of regular [potato skins](http://www.hannahkilcoyne.com/2016/10/potato-skins.html) as well. Today, I chose these as my Week 1 2019 Patriots season football snack without a backup option, knowing that they would disappear off the plate. If you're ever searching for a meat and dairy free appetizer that other people will actually want to eat, I highly recommend these potatoes. This recipe can be doubled easily.  
   

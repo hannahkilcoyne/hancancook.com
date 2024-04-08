@@ -4,11 +4,14 @@ title: Classic Bread Stuffing
 tags:
   - Thanksgiving
   - Side
+thumbnail: stuffing1.jpg
 categories:
   - Recipe
-thumbnail: stuffing1.jpg
+header_image: stuffing1.jpg
 
 ---
+
+![Image of Classic Bread Stuffing.](/upload/stuffing1.jpg)
 
 This recipe is like a homemade version of Stove-Top Stuffing (which I adore). If you buy day old bread from the supermarket for this recipe, it's also very economical.  
   

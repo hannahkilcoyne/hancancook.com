@@ -5,11 +5,14 @@ tags:
   - Vegetarian
   - Entree
   - Soup
+thumbnail: wm_1.jpg
 categories:
   - Recipe
-thumbnail: wm_1.jpg
+header_image: wm_1.jpg
 
 ---
+
+![Image of Winter Minestrone.](/upload/wm_1.jpg)
 
 This winter minestrone is my favorite way to use butternut squash. This soup is easy to prepare, but the delicious combination of flavors from the smoky bacon, wine and pesto make it a lot more interesting than any other vegetable soup I have ever had.  
   

@@ -4,11 +4,14 @@ title: Barbecue Smoked Turkey
 tags:
   - Dairy free
   - Entree
+thumbnail: sbt1.jpg
 categories:
   - Recipe
-thumbnail: sbt1.jpg
+header_image: sbt1.jpg
 
 ---
+
+![Image of Barbecue Smoked Turkey.](/upload/sbt1.jpg)
 
 Truthfully, I am not usually a big fan of turkey, but this is the best turkey I've ever had. The smoke is not overpowering, but cooking it like this really makes the turkey come out delicious and moist. The juices were pouring out when I took the temperature with the thermapen. We would probably not make this rub for a Thanksgiving turkey, but we would use it again for barbecue turkey or chicken.  
   

@@ -6,11 +6,14 @@ tags:
   - Vegetarian
   - Dairy free
   - Vegetables
+thumbnail: pw2.jpg
 categories:
   - Recipe
-thumbnail: pw2.jpg
+header_image: pw2.jpg
 
 ---
+
+![Image of Sweet Potatoes with Pomegranate Wine Sauce.](/upload/pw2.jpg)
 
 I pretty much devoured this tasty little dish of Fried Sweet Potatoes with Pomegranate Molasses when I tried it at River Bar in Somerville last month. I knew it was something I wanted to try to recreate at home. I already had a perfect recipe for [Pomegranate Wine Sauce](http://www.hannahkilcoyne.com/2015/05/mini-koftas-and-pomegranate-wine-sauce.html), so I just had to put it all together. The only thing I left out was the pomegranate arils, because they are way too overpriced for me to buy them just to use them as a garnish, but if you for some reason have some already, they would be perfect here.  
   

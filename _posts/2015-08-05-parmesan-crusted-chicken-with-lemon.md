@@ -4,11 +4,14 @@ title: Parmesan Crusted Chicken with Lemon Vinaigrette Salad
 tags:
   - Chicken
   - Entree
+thumbnail: pc.jpg
 categories:
   - Recipe
-thumbnail: pc.jpg
+header_image: pc.jpg
 
 ---
+
+![Image of Parmesan Crusted Chicken with Lemon Vinaigrette Salad.](/upload/pc.jpg)
 
 The combination of the crispy parmesan breading on the chicken and the tart salad on top makes this a great summer meal.  
   

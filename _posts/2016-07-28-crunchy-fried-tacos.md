@@ -4,11 +4,14 @@ title: Crunchy Fried Tacos
 tags:
   - Beef
   - Entree
+thumbnail: ct.jpg
 categories:
   - Recipe
-thumbnail: ct.jpg
+header_image: ct.jpg
 
 ---
+
+![Image of Crunchy Fried Tacos.](/upload/ct.jpg)
 
 I had never cooked with soft corn tortillas until I discovered this recipe. At my first job, one of my favorite tasks was frying corn tortillas to make crispy taco shells, but the idea of frying whole tacos really blew my mind. While I can't say I make these too often, because they are pretty heavy, they are as delicious as you would think they are. You can make these with whatever fillings you like; I am suggesting ground beef and black beans, but some fresh pico de gallo would be a welcome addition as well.  
   

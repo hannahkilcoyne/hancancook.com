@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Dairy Free Strawberry Ice Cream Cake
+header_image: /img_0346.jpeg
 categories:
   - Recipe
 tags:
@@ -11,6 +12,8 @@ tags:
 thumbnail: /img_0346.jpeg
 
 ---
+
+![Image of Dairy Free Strawberry Ice Cream Cake.](/upload//img_0346.jpeg)
 
 The inspiration for this cake is Oatly strawberry ice cream. The ice cream is very smooth and creamy, and to me, the strawberry does a great job hiding the "non dairy" taste that other dairy free ice creams have. I have always thought it would make a great ice cream cake. I decided to pair it with chocolate cake, and the cake stole the show. It is rich and fudgey, and the texture is almost brownie-like after being taken out of the freezer. I flavored the coco whip frosting  with powdered freeze dried strawberries, but it made the whipped cream sticky and hard to work with, so I would skip the strawberry next time.
 

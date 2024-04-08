@@ -6,11 +6,14 @@ tags:
   - Dairy free
   - Vegetarian
   - Vegetables
+thumbnail: cpw.jpg
 categories:
   - Recipe
-thumbnail: cpw.jpg
+header_image: cpw.jpg
 
 ---
+
+![Image of Cajun Potato Wedges.](/upload/cpw.jpg)
 
 The first place I ever drove by myself was to 5 Guys for some cajun fries. I love them. I recently did some research into the cajun seasoning and learned that [McCormick Gourmet Cajun Seasoning](https://www.amazon.com/McCormick-Gourmet-Collection-Cajun-Seasoning/dp/B0029K51ZI) is the same stuff they use at 5 Guys. Baked potato wedges are not the same thing as fries, but these came out very tasty and super spicy. I will definitely make these again.  
   

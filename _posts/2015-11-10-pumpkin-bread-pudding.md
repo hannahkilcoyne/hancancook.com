@@ -5,11 +5,14 @@ tags:
   - Vegetarian
   - Dessert
   - Baked goods
+thumbnail: pumpkin2.jpg
 categories:
   - Recipe
-thumbnail: pumpkin2.jpg
+header_image: pumpkin2.jpg
 
 ---
+
+![Image of Pumpkin Bread Pudding.](/upload/pumpkin2.jpg)
 
 I haven't attempted to make pumpkin bread pudding for 7 or 8 years. The last time I made it, I was following a recipe that called for a ratio of 2 entire cups of sugar to 4 cups of bread cubes - insane. This recipe is much less sweet, and much more buttery, which is how I like my bread pudding. The custard has just the right amount of pumpkin and spices.  
   

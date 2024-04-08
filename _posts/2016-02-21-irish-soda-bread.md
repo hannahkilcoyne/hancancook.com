@@ -4,11 +4,14 @@ title: Irish Soda Bread
 tags:
   - Vegetarian
   - Baked goods
+thumbnail: ISB1.jpg
 categories:
   - Recipe
-thumbnail: ISB1.jpg
+header_image: ISB1.jpg
 
 ---
+
+![Image of Irish Soda Bread.](/upload/ISB1.jpg)
 
 In my freshman year of college, I got really into cooking and baking, which had everything to do with having my own (shared) kitchen. Around St. Patrick's day, I wanted to do something seasonal and make Irish Soda Bread. I didn't grow up with a family recipe for Irish Soda Bread, but luckily one of my roommates did - this is her grandmother's recipe. I think it's great, so I have held onto it myself for many years.  
   

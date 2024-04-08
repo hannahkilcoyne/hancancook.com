@@ -5,11 +5,14 @@ tags:
   - Side
   - Vegetarian
   - Baked goods
+thumbnail: spb2.jpg
 categories:
   - Recipe
-thumbnail: spb2.jpg
+header_image: spb2.jpg
 
 ---
+
+![Image of Sweet Potato Biscuits.](/upload/spb2.jpg)
 
 I loved this recipe because it was so easy! This is the first time I have tried making dough in the food processor. It only took a second to come together, and then the cleanup was easy since the bowl fits in the dishwasher. You can definitely make this recipe with a pastry cutter if you have one, or just use your hands to mix the butter into the dry ingredients if not (this is usually my go to method for biscuits, but it is a lot messier).  
   

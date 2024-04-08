@@ -4,11 +4,14 @@ title: Pulled Pork Loaded Sweet Potato Fries
 tags:
   - Pork
   - Appetizer
+thumbnail: /pulledporkfries1.jpg
 categories:
   - Recipe
-thumbnail: /pulledporkfries1.jpg
+header_image: /pulledporkfries1.jpg
 
 ---
+
+![Image of Pulled Pork Loaded Sweet Potato Fries.](/upload//pulledporkfries1.jpg)
 
 This recipe was inspired by a really great appetizer we tried on a weekend in [Maine](http://grittys.com/pubs/freeport/) a few years ago. I thought that barbecue pulled pork and sweet potato fries sounded like a weird combination, but Ryan was sure it would be good, and as usual, he was right. Obviously it was memorable because I'm still thinking about how to recreate it. That's the down side to having great food on vacation - you don't know when you're going to get to eat it again. This did not turn out exactly the same as the restaurant's version (I might have to make another attempt sometime), but it was delicious nonetheless. This was a great way to use part of a batch of pulled pork.  
   

@@ -5,11 +5,14 @@ tags:
   - Dairy free
   - Vegetarian
   - Sauces and salsas
+thumbnail: mbs1.jpg
 categories:
   - Recipe
-thumbnail: mbs1.jpg
+header_image: mbs1.jpg
 
 ---
+
+![Image of Mango and Black Bean Salsa.](/upload/mbs1.jpg)
 
 This a nice, summery salsa that is perfect to serve on top of a nice grilled steak or chicken breast. If you're looking for something refreshing to serve al fresco on a hot day, look no further.  
   

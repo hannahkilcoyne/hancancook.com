@@ -5,11 +5,14 @@ tags:
   - Vegetarian
   - Baked goods
   - Breakfast
+thumbnail: lrp1.jpg
 categories:
   - Recipe
-thumbnail: lrp1.jpg
+header_image: lrp1.jpg
 
 ---
+
+![Image of Lemon Ricotta Pancakes.](/upload/lrp1.jpg)
 
 Pancakes used to baffle me. I would either burn them or flip them too soon and turn them into "scrambled pancakes." I eventually got more patient.
 

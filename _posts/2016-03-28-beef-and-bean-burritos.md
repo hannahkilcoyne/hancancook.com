@@ -4,11 +4,14 @@ title: " Beef and Bean Burritos"
 tags:
   - Beef
   - Entree
+thumbnail: bbb1.jpg
 categories:
   - Recipe
-thumbnail: bbb1.jpg
+header_image: bbb1.jpg
 
 ---
+
+![Image of  Beef and Bean Burritos.](/upload/bbb1.jpg)
 
 This is a favorite Pioneer Woman recipe that I have made many times over the years. The ingredients don't seem like anything special, but these little burritos are really unexpectedly tasty, and they're also very quick to prepare.  
 **Beef and Bean Burritos**  

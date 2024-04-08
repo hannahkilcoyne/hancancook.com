@@ -5,11 +5,14 @@ tags:
   - Dessert
   - Baked goods
   - Cookies
+thumbnail: VS_2.jpg
 categories:
   - Recipe
-thumbnail: VS_2.jpg
+header_image: VS_2.jpg
 
 ---
+
+![Image of Vanilla Sugar Cookies.](/upload/VS_2.jpg)
 
 My mom stopped by today to bake a batch of these Vanilla Sugar Cookies with me. This recipe is one of my favorites - in fact it's the top entry in my "Treasured Recipes" Google doc. The recipe originally comes from my grandmother, and according to my mom, my Grandmother stumbled upon it randomly in an Ekco cookware promotional cookbook. These cookies have been my family's traditional sugar cookies for my entire life. It's the shortening that gives these cookies a unique flaky texture, and it also makes them extremely addictive.
 

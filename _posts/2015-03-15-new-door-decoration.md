@@ -2,11 +2,14 @@
 layout: post
 title: New Door Decoration
 tags: []
+thumbnail: door1.jpg
 categories:
   - House
-thumbnail: door1.jpg
+header_image: door1.jpg
 
 ---
+
+![Image of New Door Decoration.](/upload/door1.jpg)
 
 Just for fun.  
   

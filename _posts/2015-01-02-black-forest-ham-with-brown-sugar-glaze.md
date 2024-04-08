@@ -4,11 +4,14 @@ title: Black Forest Ham with Brown Sugar Glaze
 tags:
   - Entree
   - Pork
+thumbnail: IMG_0443.gif
 categories:
   - Recipe
-thumbnail: IMG_0443.gif
+header_image: IMG_0443.gif
 
 ---
+
+![Image of Black Forest Ham with Brown Sugar Glaze.](/upload/IMG_0443.gif)
 
 I picked up this baby black forest ham (just under 2 pounds) on sale from Whole Foods the day after Christmas. I wanted to do a simple glaze, but had to find something that would be appropriate for this mustard free house. The internet didn't turn up anything promising so I made up my own extremely simple glaze.  
   

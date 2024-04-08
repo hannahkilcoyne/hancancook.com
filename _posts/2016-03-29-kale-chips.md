@@ -6,11 +6,14 @@ tags:
   - Vegetables
   - Vegetarian
   - Side
+thumbnail: kc.jpg
 categories:
   - Recipe
-thumbnail: kc.jpg
+header_image: kc.jpg
 
 ---
+
+![Image of Kale Chips.](/upload/kc.jpg)
 
 **Kale Chips**  
   

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Vegan Waffles
+header_image: /img_0247.jpeg
 tags:
   - Baked goods
   - Vegetarian
@@ -11,6 +12,8 @@ categories:
 thumbnail: /img_0247.jpeg
 
 ---
+
+![Image of Vegan Waffles.](/upload//img_0247.jpeg)
 
 These are my favorite waffles! I will continue to make these even without any allergen requirements, because they are excellent. There is nothing worse to me than spongy waffles. These are crispy on the outside, fluffy on the inside, and they even keep well and can be reheated in the toaster.
 

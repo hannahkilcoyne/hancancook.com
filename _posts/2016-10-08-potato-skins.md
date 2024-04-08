@@ -4,11 +4,14 @@ title: Potato Skins
 tags:
   - Pork
   - Appetizer
+thumbnail: ps4.jpg
 categories:
   - Recipe
-thumbnail: ps4.jpg
+header_image: ps4.jpg
 
 ---
+
+![Image of Potato Skins.](/upload/ps4.jpg)
 
 This week's football game snack: Potato skins! I'm trying to figure out why I haven't eaten potato skins in forever. I kind of forgot they existed. Now that I know how easy they are to make, I think I should start eating these a lot more often. Man, these were good!  
   

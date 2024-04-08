@@ -4,11 +4,14 @@ title: One Pot Chicken and Rice
 tags:
   - Chicken
   - Entree
+thumbnail: /chickenandrice1.jpg
 categories:
   - Recipe
-thumbnail: /chickenandrice1.jpg
+header_image: /chickenandrice1.jpg
 
 ---
+
+![Image of One Pot Chicken and Rice.](/upload//chickenandrice1.jpg)
 
 **One Pot Chicken and Rice**  
   

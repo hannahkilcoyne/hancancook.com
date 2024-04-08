@@ -5,11 +5,14 @@ tags:
   - Vegetarian
   - Dairy free
   - Drinks
+thumbnail: cbht2.jpg
 categories:
   - Recipe
-thumbnail: cbht2.jpg
+header_image: cbht2.jpg
 
 ---
+
+![Image of Cold Brewed Hibiscus Tea.](/upload/cbht2.jpg)
 
 This is hardly a recipe, but I learned a cool new way to make less tannic (or is it satanic?) iced tea from [my favorite YouTube channel](https://www.youtube.com/watch?v=84UADOS7RsA). I used Celestial Seasonings Sangria Zinger this time. Tazo Passion tea is one of my favorites. Argo Fruit Sangria is another favorite.  
   

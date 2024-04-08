@@ -4,11 +4,14 @@ title: Dr. Pepper Pulled Pork
 tags:
   - Pork
   - Entree
+thumbnail: dpp2.jpg
 categories:
   - Recipe
-thumbnail: dpp2.jpg
+header_image: dpp2.jpg
 
 ---
+
+![Image of Dr. Pepper Pulled Pork.](/upload/dpp2.jpg)
 
 **Dr. Pepper Pulled Pork**  
 4 lb bone-in pork shoulder  

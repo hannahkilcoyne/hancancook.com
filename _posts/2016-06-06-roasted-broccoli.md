@@ -6,11 +6,14 @@ tags:
   - Vegetarian
   - Vegetables
   - Side
+thumbnail: IMG_5773.jpg
 categories:
   - Recipe
-thumbnail: IMG_5773.jpg
+header_image: IMG_5773.jpg
 
 ---
+
+![Image of Roasted Broccoli.](/upload/IMG_5773.jpg)
 
 **  
 Roasted Broccoli**  

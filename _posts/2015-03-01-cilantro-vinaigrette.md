@@ -5,11 +5,14 @@ tags:
   - Dairy free
   - Vegetarian
   - Sauces and salsas
+thumbnail: cv1.jpg
 categories:
   - Recipe
-thumbnail: cv1.jpg
+header_image: cv1.jpg
 
 ---
+
+![Image of Cilantro Vinaigrette.](/upload/cv1.jpg)
 
 **Cilantro Vinaigrette**  
   

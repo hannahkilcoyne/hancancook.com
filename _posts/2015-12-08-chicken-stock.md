@@ -3,11 +3,14 @@ layout: post
 title: Chicken Stock
 tags:
   - Soups
+thumbnail: stock.jpg
 categories:
   - Recipe
-thumbnail: stock.jpg
+header_image: stock.jpg
 
 ---
+
+![Image of Chicken Stock.](/upload/stock.jpg)
 
 When I have a leftover roast chicken, I use it to make my own chicken stock. An easy way to make stock basically for free is to start with a [boil](http://donnafreedman.com/2014/10/10/boiling-bag/) [bag](http://www.thesimpledollar.com/turning-kitchen-waste-into-something-sublime/). Save unused onions, carrots, celery and parsley in a bag in the freezer for the next time you make stock. The amounts will not be exact, but this recipe doesn't need to be exact.  
   

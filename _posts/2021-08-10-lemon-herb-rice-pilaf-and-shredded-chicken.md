@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Lemon Herb Rice Pilaf and Shredded Chicken
+header_image: /9167e7c7-2972-440e-b256-2a92e7be079b_1_201_a.jpeg
 tags:
   - Chicken
   - Dairy free
@@ -10,6 +11,8 @@ categories:
 thumbnail: /9167e7c7-2972-440e-b256-2a92e7be079b_1_201_a.jpeg
 
 ---
+
+![Image of Lemon Herb Rice Pilaf and Shredded Chicken.](/upload//9167e7c7-2972-440e-b256-2a92e7be079b_1_201_a.jpeg)
 
 This meal is inspired by my favorite dish at a local chain of cafes serving Israeli food. The dish is a kids meal that I can't stop ordering for myself. I'm not even embarrassed. It's not a perfect replica, but this homemade rice pilaf with chicken is delicious nonetheless.
 

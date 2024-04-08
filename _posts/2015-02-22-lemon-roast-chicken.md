@@ -4,11 +4,14 @@ title: Lemon Roast Chicken
 tags:
   - Chicken
   - Entree
+thumbnail: roast-chicken2.jpg
 categories:
   - Recipe
-thumbnail: roast-chicken2.jpg
+header_image: roast-chicken2.jpg
 
 ---
+
+![Image of Lemon Roast Chicken.](/upload/roast-chicken2.jpg)
 
 Roast chicken for Sunday dinner is one of the best things in the world. That is just a fact. I served this Lemon Roast Chicken with [Lemon Rosemary Potatoes](http://www.hannahkilcoyne.com/2015/02/lemon-rosemary-potatoes.html), because sometimes more is more.  
   

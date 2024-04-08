@@ -5,11 +5,14 @@ tags:
   - Dairy free
   - Entree
   - Soup
+thumbnail: sts2.jpg
 categories:
   - Recipe
-thumbnail: sts2.jpg
+header_image: sts2.jpg
 
 ---
+
+![Image of Smoked Turkey and Wild Rice Soup.](/upload/sts2.jpg)
 
 This recipe is all about using up leftovers; all the ingredients are either left over from Thanksgiving or pantry items. Ryan smoked our Turkey this year, and I suspected that smoked turkey would result in a good turkey soup. I did remove as much skin as possible from the carcass, so that the smoke taste wouldn't be overpowering. It turned out that the stock made from the smoked turkey was unreal!  It basically tasted like it had been flavored with a generous amount of bacon.
 

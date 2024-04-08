@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How I Cook Salmon
+header_image: /69edbcb4-ef5f-4997-808e-49f0fc2dea48_1_201_a.jpeg
 categories:
   - Recipe
 tags:
@@ -9,6 +10,8 @@ tags:
 thumbnail: /69edbcb4-ef5f-4997-808e-49f0fc2dea48_1_201_a.jpeg
 
 ---
+
+![Image of How I Cook Salmon.](/upload//69edbcb4-ef5f-4997-808e-49f0fc2dea48_1_201_a.jpeg)
 
 ## Ingredients
 

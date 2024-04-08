@@ -4,11 +4,14 @@ title: Lemon and Rosemary Risotto
 tags:
   - Entree
   - Vegetarian
+thumbnail: lr.jpg
 categories:
   - Recipe
-thumbnail: lr.jpg
+header_image: lr.jpg
 
 ---
+
+![Image of Lemon and Rosemary Risotto.](/upload/lr.jpg)
 
 If you look at the recipes I've posted so far, you'd probably think I'm a lemon superfan. I'm not, really, or at least it is not something I've noticed about myself before now. Again, I am not sure what possessed me to make risotto when it was 96° out, which was even hotter than it was [last time](http://www.hannahkilcoyne.com/2015/08/bacon-and-parmesan-risotto.html) I decided to make risotto (when it was only a cool 90°). Although I did genuinely break a sweat standing over the stove, it was worth it, since this risotto turned out to be so tasty. I was worried that the lemon wouldn't be strong enough or the rosemary would be overpowering, but both those fears were unfounded. I will definitely make this recipe again.  
   

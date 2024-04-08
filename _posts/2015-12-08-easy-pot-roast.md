@@ -5,11 +5,14 @@ tags:
   - Dairy free
   - Beef
   - Entree
+thumbnail: pr.jpg
 categories:
   - Recipe
-thumbnail: pr.jpg
+header_image: pr.jpg
 
 ---
+
+![Image of Easy Pot Roast.](/upload/pr.jpg)
 
 This is a super each pot roast that you can serve with mashed potatoes, or you can add potatoes for the last half of the cooking time. It's funny how a recipe that takes 5 hours to cook actually requires less hands-on effort than most other meals.  
 **Easy Pot Roast**  

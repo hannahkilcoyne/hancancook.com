@@ -4,11 +4,14 @@ title: Raspberry Bullshits
 tags:
   - Dessert
   - Baked goods
+thumbnail: IMG_4277.jpg
 categories:
   - Recipe
-thumbnail: IMG_4277.jpg
+header_image: IMG_4277.jpg
 
 ---
+
+![Image of Raspberry Bullshits.](/upload/IMG_4277.jpg)
 
 Years ago, right after watching a [certain episode](https://www.youtube.com/watch?v=mrIgJ83E8-M) of Curb, I went to a party where someone brought a big plate of raspberry bars of some kind. I probably ate half of them myself, they were so delicious. I somehow ended up referring to them as raspberry bullshits, and the name has stuck in my head. These bars aren't exactly the same; I'm still searching for a recipe for those, and I believe box cake mix will come into play. But these were great, and a lot more "real". The shortbread crust was my favorite part. I will make these again, but in an ideal world I would look for a way to make them seedless. 
 

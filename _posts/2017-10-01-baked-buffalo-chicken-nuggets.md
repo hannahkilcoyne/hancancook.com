@@ -5,11 +5,14 @@ tags:
   - Entree
   - Dairy free
   - Chicken
+thumbnail: bc2.jpg
 categories:
   - Recipe
-thumbnail: bc2.jpg
+header_image: bc2.jpg
 
 ---
+
+![Image of Baked Buffalo Chicken Nuggets.](/upload/bc2.jpg)
 
 This is my basic recipe for buffalo chicken nuggets. This is a tasty Sunday afternoon snack to munch on during a football game, or even a late fall baseball game.
 

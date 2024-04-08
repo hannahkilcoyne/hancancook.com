@@ -2,11 +2,14 @@
 layout: post
 title: Goodbye Barbie House
 tags: []
+thumbnail: IMG_2942.jpg
 categories:
   - House
-thumbnail: IMG_2942.jpg
+header_image: IMG_2942.jpg
 
 ---
+
+![Image of Goodbye Barbie House.](/upload/IMG_2942.jpg)
 
 We viewed our house for the first time at the open house. One of the memorable moments from the open house was getting briefly locked on the deck with Ryan and a few older women who were also looking around. We saw the paint on the back of the house up close, and it was flaking. Badly.  
   

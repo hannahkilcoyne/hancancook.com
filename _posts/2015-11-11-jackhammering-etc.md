@@ -2,11 +2,14 @@
 layout: post
 title: Jackhammering, etc.
 tags: []
+thumbnail: IMG_3146.jpg
 categories:
   - House
-thumbnail: IMG_3146.jpg
+header_image: IMG_3146.jpg
 
 ---
+
+![Image of Jackhammering, etc..](/upload/IMG_3146.jpg)
 
 We were motivated to remove some of the eye sores from the back of the house after we had the house painted. Along with the sunsetter, it was also time to say goodbye to the clothesline. Our back yard is not all that private, and hanging anything on this clothesline just felt weird, so we never used it. Not to mention, it was literally hanging on by a thread.  
   

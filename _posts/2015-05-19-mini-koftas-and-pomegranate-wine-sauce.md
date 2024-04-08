@@ -5,11 +5,14 @@ tags:
   - Sauces and salsas
   - Beef
   - Entree
+thumbnail: pw3.jpg
 categories:
   - Recipe
-thumbnail: pw3.jpg
+header_image: pw3.jpg
 
 ---
+
+![Image of Mini Koftas and Pomegranate Wine Sauce.](/upload/pw3.jpg)
 
 The recipe for this delicious pomegranate wine sauce was authored by [The View From Great Island](http://theviewfromgreatisland.com/2013/01/its-5-oclock-somewhere-friday-mini-lamb-koftas-with-pomegranate-wine-sauce.html), and the koftas were adapted from the same post.  
   

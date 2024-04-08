@@ -4,11 +4,14 @@ title: Mini Pretzels with Pumpkin Beer Cheddar Sauce
 tags:
   - Vegetarian
   - Appetizer
+thumbnail: pn2.jpg
 categories:
   - Recipe
-thumbnail: pn2.jpg
+header_image: pn2.jpg
 
 ---
+
+![Image of Mini Pretzels with Pumpkin Beer Cheddar Sauce.](/upload/pn2.jpg)
 
 These pretzels and are my own little nod to Oktoberfest.  
   

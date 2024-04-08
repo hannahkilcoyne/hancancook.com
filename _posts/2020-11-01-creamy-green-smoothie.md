@@ -5,11 +5,14 @@ tags:
   - Vegetarian
   - Dairy free
   - Drinks
+thumbnail: /img_3646.jpeg
 categories:
   - Recipe
-thumbnail: /img_3646.jpeg
+header_image: /img_3646.jpeg
 
 ---
+
+![Image of Creamy Green Smoothie.](/upload//img_3646.jpeg)
 
 This is my favorite green smoothie to make at home. It is creamy and satisfying. The spinach adds nutrition and the hemp hearts are a nice source of protein. Fresh mango is delicious, but to make it easy, I recommend the organic frozen mango from Trader Joe's. I also recommend Whole Foods 365 brand for affordable Hemp Hearts. If you make this smoothie with oat milk, it is especially creamy. Using coconut milk makes this recipe Whole 30 compliant.
 

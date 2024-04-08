@@ -4,11 +4,14 @@ title: Beef and Guinness Stew
 tags:
   - Entree
   - Beef
+thumbnail: BGS-3-2018-10-14.jpg
 categories:
   - Recipe
-thumbnail: BGS-3-2018-10-14.jpg
+header_image: BGS-3-2018-10-14.jpg
 
 ---
+
+![Image of Beef and Guinness Stew.](/upload/BGS-3-2018-10-14.jpg)
 
 This is a perfect beef stew to throw together on a rainy, gray Sunday. There are not too many ingredients, but the result is incredibly flavorful. Tastea-monials: "It was stew-pendous." -Ryan  
 Source: Chef John of [foodwishes.com](https://foodwishes.blogspot.com/2013/03/beef-guinness-stew-eating-beer-on-st.html)

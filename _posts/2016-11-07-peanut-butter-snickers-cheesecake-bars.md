@@ -5,11 +5,14 @@ tags:
   - Vegetarian
   - Baked goods
   - Dessert
+thumbnail: spcb1.jpg
 categories:
   - Recipe
-thumbnail: spcb1.jpg
+header_image: spcb1.jpg
 
 ---
+
+![Image of Peanut Butter Snickers Cheesecake Bars.](/upload/spcb1.jpg)
 
 The idea for this recipe came from my last visit to the Cheesecake Factory. I ordered Snickers Cheesecake, and while it was tasty, it was just regular cheesecake with Snickers mixed in. I really felt like the perfect Snickers cheesecake would be a peanut butter base instead of plain. I intended to try out my idea as soon as Halloween candy started appearing in the grocery store (which these days is in the middle of summer), but I didn't get it done before the Halloween aisle was replaced with Christmas-in-October.  
 

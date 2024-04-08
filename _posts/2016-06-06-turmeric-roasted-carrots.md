@@ -6,11 +6,14 @@ tags:
   - Vegetables
   - Dairy free
   - Vegetarian
+thumbnail: rc.jpg
 categories:
   - Recipe
-thumbnail: rc.jpg
+header_image: rc.jpg
 
 ---
+
+![Image of Turmeric Roasted Carrots.](/upload/rc.jpg)
 
 **Turmeric Roasted Carrots**  
   

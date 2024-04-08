@@ -6,11 +6,14 @@ tags:
   - Vegetarian
   - Vegetables
   - Side
+thumbnail: gp2.jpg
 categories:
   - Recipe
-thumbnail: gp2.jpg
+header_image: gp2.jpg
 
 ---
+
+![Image of Roasted Greek Potatoes.](/upload/gp2.jpg)
 
 ## Ingredients
 

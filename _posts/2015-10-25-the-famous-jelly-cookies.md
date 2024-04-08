@@ -5,11 +5,14 @@ tags:
   - Cookies
   - Baked goods
   - Dessert
+thumbnail: jc2.jpg
 categories:
   - Recipe
-thumbnail: jc2.jpg
+header_image: jc2.jpg
 
 ---
+
+![Image of The Famous Jelly Cookies.](/upload/jc2.jpg)
 
 3QZD11QQAJelly Cookies
 

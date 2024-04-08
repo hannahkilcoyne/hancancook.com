@@ -5,11 +5,14 @@ tags:
   - Dairy free
   - Vegetarian
   - Drinks
+thumbnail: mw.jpg
 categories:
   - Recipe
-thumbnail: mw.jpg
+header_image: mw.jpg
 
 ---
+
+![Image of Mulled Red Wine with Cinnamon and Lime Zest.](/upload/mw.jpg)
 
 Modified from [here](http://www.foodnetwork.com/recipes/ina-garten/mulled-wine-recipe.html).
 

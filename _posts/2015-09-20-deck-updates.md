@@ -2,11 +2,14 @@
 layout: post
 title: Deck Updates
 tags: []
+thumbnail: IMG_2989.jpg
 categories:
   - House
-thumbnail: IMG_2989.jpg
+header_image: IMG_2989.jpg
 
 ---
+
+![Image of Deck Updates.](/upload/IMG_2989.jpg)
 
 Just in time for summer to end, my deck project is finally done!  
   

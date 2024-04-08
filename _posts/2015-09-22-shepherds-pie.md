@@ -4,11 +4,14 @@ title: Shepherd's Pie
 tags:
   - Entree
   - Beef
+thumbnail: sp1.jpg
 categories:
   - Recipe
-thumbnail: sp1.jpg
+header_image: sp1.jpg
 
 ---
+
+![Image of Shepherd's Pie.](/upload/sp1.jpg)
 
 Over the years I have tried a few recipes for Shepherd's Pie, but this is the first one I've found that I actually wanted to make again. I've made this recipe many times and it always turns out great. I love the combination of root vegetables in this recipe, and I've just been waiting for it to feel like fall before making it again. The weather is just barely starting to feel cool in the evening, but I say good enough! Here's the recipe - it's a keeper.  
   

@@ -5,11 +5,14 @@ tags:
   - Vegetarian
   - Cake
   - Baked goods
+thumbnail: bb3.jpg
 categories:
   - Recipe
-thumbnail: bb3.jpg
+header_image: bb3.jpg
 
 ---
+
+![Image of Banana Cake.](/upload/bb3.jpg)
 
 I went searching for a banana bread recipe solely to use up some overripe bananas that were kicking around. The [recipe I found](http://allrecipes.com/recipe/banana-banana-bread/) had great ratings and looked like it would be perfect. As it turns out I don't own a loaf pan and can't make banana bread, so I'm not sure what I was thinking there. Instead, I made banana cake! The cake actually came out perfectly - it's very moist and not too sweet, with a delicious buttery crust on top.  
   

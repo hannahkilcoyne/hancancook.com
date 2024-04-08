@@ -6,11 +6,14 @@ tags:
   - Dessert
   - Baked goods
   - Thanksgiving
+thumbnail: ps2.jpg
 categories:
   - Recipe
-thumbnail: ps2.jpg
+header_image: ps2.jpg
 
 ---
+
+![Image of Pumpkin Squares.](/upload/ps2.jpg)
 
 Unlike some of the other seasonal recipes I've posted, this isn't one that I ate growing up, it's someone else's favorite fall recipe. I got my hands on the recipe and I've been saving it for years, since a time way Before Pinterest. This cake is ridiculously moist and delicious (I can definitively say that this is the only recipe I've ever made with 1 full cup of vegetable oil in it) and the cream cheese frosting is the perfect accompaniment.  
 

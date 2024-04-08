@@ -2,11 +2,14 @@
 layout: post
 title: Our Dining Room
 tags: []
+thumbnail: DR0.jpg
 categories:
   - House
-thumbnail: DR0.jpg
+header_image: DR0.jpg
 
 ---
+
+![Image of Our Dining Room.](/upload/DR0.jpg)
 
 As a follow up to my [triumphant post](http://www.hannahkilcoyne.com/2016/11/the-ghosts-room.html) about stripping my last strip of wallpaper, I realized I should finally bring it full circle and post about the first room I stripped the wallpaper from in this house.  
   

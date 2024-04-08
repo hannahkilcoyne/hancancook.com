@@ -5,11 +5,14 @@ tags:
   - Cookies
   - Baked goods
   - Dessert
+thumbnail: osc1.jpg
 categories:
   - Recipe
-thumbnail: osc1.jpg
+header_image: osc1.jpg
 
 ---
+
+![Image of Spiced Oatmeal Chocolate Chunk Cookies.](/upload/osc1.jpg)
 
 Funny story -- I had to trash the first batch of these cookies because I dumped in lemon extract, which I forgot I even owned, instead of vanilla. I'm really glad I persevered though, because these cookies came out great.  
   

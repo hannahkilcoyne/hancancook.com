@@ -2,11 +2,14 @@
 layout: post
 title: Befores and Afters
 tags: []
+thumbnail: IMG_0242.jpg
 categories:
   - House
-thumbnail: IMG_0242.jpg
+header_image: IMG_0242.jpg
 
 ---
+
+![Image of Befores and Afters.](/upload/IMG_0242.jpg)
 
 
 

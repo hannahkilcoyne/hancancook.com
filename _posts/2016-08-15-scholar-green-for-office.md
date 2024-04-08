@@ -2,11 +2,14 @@
 layout: post
 title: Scholar Green for the Office
 tags: []
+thumbnail: IMG_4251.jpg
 categories:
   - House
-thumbnail: IMG_4251.jpg
+header_image: IMG_4251.jpg
 
 ---
+
+![Image of Scholar Green for the Office.](/upload/IMG_4251.jpg)
 
 The office is finally revamped. Here's how the office looked in April with the original floral wallpaper.  
   

@@ -6,11 +6,14 @@ tags:
   - Dessert
   - Cake
   - Baked goods
+thumbnail: pbt.jpg
 categories:
   - Recipe
-thumbnail: pbt.jpg
+header_image: pbt.jpg
 
 ---
+
+![Image of Peanut Butter Chocolate Torte.](/upload/pbt.jpg)
 
 When I bookmarked this recipe years ago, I can recall that Ryan was looking over my shoulder and said I had to make it for him. It took a few years for me to finally spring for a springform pan (pun intended), but I finally made it for his birthday this year, and I was so pleasantly surprised with the results! I am still not sure what makes this a torte and not a cheesecake, because it pretty much seems like a peanut butter cheesecake to me. I think the tiny amounts of cinnamon and nutmeg in the crunch are what put the flavors of this cake over the top for me.  
   

@@ -5,11 +5,14 @@ tags:
   - Vegetarian
   - Dairy free
   - Drinks
+thumbnail: vps3.jpg
 categories:
   - Recipe
-thumbnail: vps3.jpg
+header_image: vps3.jpg
 
 ---
+
+![Image of Pomegranate Vanilla Red Sangria.](/upload/vps3.jpg)
 
 This is the best sangria! I make it with [Cupcake Red Velvet](http://www.cupcakevineyards.com/product/wine/red-velvet), which already tastes like vanilla on its own (apparently it's oaked), so it goes perfectly.  
   

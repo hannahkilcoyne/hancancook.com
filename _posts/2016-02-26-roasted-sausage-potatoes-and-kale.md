@@ -5,11 +5,14 @@ tags:
   - Dairy free
   - Pork
   - Entree
+thumbnail: spk.jpg
 categories:
   - Recipe
-thumbnail: spk.jpg
+header_image: spk.jpg
 
 ---
+
+![Image of Roasted Sausage, Potatoes and Kale.](/upload/spk.jpg)
 
 **Roasted Sausage, Potatoes and Kale**  
   

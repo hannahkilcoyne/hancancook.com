@@ -3,11 +3,14 @@ layout: post
 title: Green Monster Tea Ice Cream
 tags:
   - Dessert
+thumbnail: IMG_1418.JPG
 categories:
   - Recipe
-thumbnail: IMG_1418.JPG
+header_image: IMG_1418.JPG
 
 ---
+
+![Image of Green Monster Tea Ice Cream.](/upload/IMG_1418.JPG)
 
 When April rolls around, the first thing I think about making is this ice cream. Actually, the first thing I think about _eating_ is this ice cream. My obsession goes back to April 2006 when Ryan and I went to our first of many Red Sox games together. The weather in Boston in early April can be hit or miss. Some days can still feel like winter, so we were worried about it ahead of time, but it ended up being a gorgeous day that felt like summer. We even made an impromptu trip to the Gap so Ryan could buy some shorts.  
   

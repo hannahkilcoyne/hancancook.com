@@ -6,11 +6,14 @@ tags:
   - Vegetables
   - Vegetarian
   - Dairy free
+thumbnail: cs1.jpg
 categories:
   - Recipe
-thumbnail: cs1.jpg
+header_image: cs1.jpg
 
 ---
+
+![Image of Chimichurri Sauce.](/upload/cs1.jpg)
 
 At this time of year, fresh herbs are abundant, even if they don't come from your own garden. I love chimichurri as a dip for fries, or on top of steak or grilled sweet potato.  
 Source: [Bon Appetit](http://www.bonappetit.com/recipe/chimichurri-sauce-2)

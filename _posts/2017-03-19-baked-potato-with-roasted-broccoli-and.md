@@ -5,11 +5,14 @@ tags:
   - Vegetarian
   - Vegetables
   - Side
+thumbnail: bp1.jpg
 categories:
   - Recipe
-thumbnail: bp1.jpg
+header_image: bp1.jpg
 
 ---
+
+![Image of Baked Potato with Roasted Broccoli and Cheddar Cheese Sauce.](/upload/bp1.jpg)
 
 I really like this recipe because it's like junk food, but it has roasted broccoli on it. It basically tastes like broccoli cheddar soup, but not in soup form.  
   

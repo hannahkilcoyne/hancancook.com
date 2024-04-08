@@ -5,11 +5,14 @@ tags:
   - Sauces and salsas
   - Thanksgiving
   - Side
+thumbnail: 2018-11-22-MAG2.jpg
 categories:
   - Recipe
-thumbnail: 2018-11-22-MAG2.jpg
+header_image: 2018-11-22-MAG2.jpg
 
 ---
+
+![Image of Make Ahead Gravy.](/upload/2018-11-22-MAG2.jpg)
 
 I've been making this gravy for a few years now, but never posted it here on my blog. The truth is I have never liked gravy, because I live for crispiness. That said, this gravy is tasty, and people who like gravy seem to like it. We smoke our turkey, and the drippings can't be used for a traditional gravy, so I love that this one can be made ahead. It's one less thing to worry about during the rush to get Thanksgiving dinner on the table.  
   

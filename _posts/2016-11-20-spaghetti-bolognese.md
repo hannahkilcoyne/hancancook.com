@@ -4,11 +4,14 @@ title: Spaghetti Bolognese
 tags:
   - Beef
   - Entree
+thumbnail: sb2.jpg
 categories:
   - Recipe
-thumbnail: sb2.jpg
+header_image: sb2.jpg
 
 ---
+
+![Image of Spaghetti Bolognese.](/upload/sb2.jpg)
 
 My go to basic tomato sauce is Marcella Hazan’s 3 ingredient [Tomato Sauce with Onion and Butter](http://steamykitchen.com/8375-marcella-hazan-tomato-sauce-with-onion-butter.html), so when I came across this recipe for Spaghetti Bolognese I decided to try it. Most importantly, Ryan liked it.
 

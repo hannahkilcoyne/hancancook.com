@@ -3,11 +3,14 @@ layout: post
 title: Ryan's Smoked Thanksgiving Turkey Rub
 tags:
   - Thanksgiving
+thumbnail: 2018-11-20-RTR.jpg
 categories:
   - Recipe
-thumbnail: 2018-11-20-RTR.jpg
+header_image: 2018-11-20-RTR.jpg
 
 ---
+
+![Image of Ryan's Smoked Thanksgiving Turkey Rub.](/upload/2018-11-20-RTR.jpg)
 
 ## Ingredients
 

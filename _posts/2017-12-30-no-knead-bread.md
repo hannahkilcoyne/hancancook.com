@@ -5,11 +5,14 @@ tags:
   - Dairy free
   - Vegetarian
   - Baked goods
+thumbnail: nkb1.jpg
 categories:
   - Recipe
-thumbnail: nkb1.jpg
+header_image: nkb1.jpg
 
 ---
+
+![Image of No-Knead Bread.](/upload/nkb1.jpg)
 
 Making homemade bread is one of my goals for 2018, but it looks like I actually accomplished it a few days early. Making anything with yeast used to seem really complicated to me, but after many years of absorbing Great British Bake Off, the idea has started to feel less foreign. I started with a [bread recipe](https://cooking.nytimes.com/recipes/11376-no-knead-bread) that is famous for being easy, and it definitely deserves its reputation. Even on the first try, it came out super crusty, done on the inside, and it tasted great. Ryan even declared this to be the best bread he's ever had!
 

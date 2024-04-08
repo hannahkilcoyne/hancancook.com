@@ -5,11 +5,14 @@ tags:
   - Vegetarian
   - Dairy free
   - Drinks
+thumbnail: hem.jpg
 categories:
   - Recipe
-thumbnail: hem.jpg
+header_image: hem.jpg
 
 ---
+
+![Image of The Hemingway.](/upload/hem.jpg)
 
 This brunch cocktail is inspired by one served at [Armsby Abbey](http://armsbyabbey.com/) in Worcester, MA. I've never tried the original, but I'm a big fan of this recipe. The grapefruit is nice and citruisy, which is all the better to help me in my ongoing quest to consume more pancakes.  
   

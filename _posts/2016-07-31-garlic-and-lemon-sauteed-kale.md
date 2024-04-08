@@ -6,11 +6,14 @@ tags:
   - Dairy free
   - Side
   - Vegetables
+thumbnail: sk2.jpg
 categories:
   - Recipe
-thumbnail: sk2.jpg
+header_image: sk2.jpg
 
 ---
+
+![Image of Garlic and Lemon Sautéed Kale.](/upload/sk2.jpg)
 
 The [kale chips](http://www.hannahkilcoyne.com/2016/03/kale-chips.html) I posted before are definitely a favorite, but this recipe is like the lower effort cousin of the kale chips. Kale is very hearty and forgiving to cook, so it's hard to screw this recipe up. Timing is not as critical as it is with kale chips, or with more delicate greens like spinach.  
   

@@ -2,11 +2,14 @@
 layout: post
 title: The Ghost's Room
 tags: []
+thumbnail: GR1.jpg
 categories:
   - House
-thumbnail: GR1.jpg
+header_image: GR1.jpg
 
 ---
+
+![Image of The Ghost's Room.](/upload/GR1.jpg)
 
 We bought our house the same week that my sister graduated from college. We gave her her own room to store some of her stuff. She was literally never in the house when we were home, but every few weeks she would come over to get something or do laundry. We would find little clues that she had been in the house, but we never saw her, so that's how she came to be known as the ghost, and her room affectionately came to be known as the ghost's room.  
   

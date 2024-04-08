@@ -6,11 +6,14 @@ tags:
   - Dessert
   - Cookies
   - Baked goods
+thumbnail: lpb2.jpg
 categories:
   - Recipe
-thumbnail: lpb2.jpg
+header_image: lpb2.jpg
 
 ---
+
+![Image of Lemon Pistachio Biscotti.](/upload/lpb2.jpg)
 
 The inspiration for these biscotti came from Ryan's discovery of the incredible but obscenely expensive Lemon Pistachio biscotti from Pain D'Avignon. I attempted some reverse engineering of the ingredients on the label. I landed on this recipe, and happily, it comes pretty close to the inspiration cookies.
 
