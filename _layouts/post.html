@@ -3,15 +3,75 @@ layout: default
 ---
 
 <style type="text/css">
-  article img {
+article {
+  & > header {
+    margin-bottom: 1em;
+
+    h1 {
+      margin: 0;
+    }
+
+    time {
+      color: var(--color-fg-light);
+      font-size: 0.9rem;
+    }
+
+    div {
+      color: var(--color-fg-light);
+      font-size: 0.9rem;
+
+      span::before {
+        content: " • ";
+      }
+
+      ul {
+        display: inline;
+        padding-left: 0;
+
+        li {
+          display: inline;
+
+          a {
+            color: var(--color-fg-light);
+          }
+        }
+
+        li:not(:last-of-type)::after {
+          content: ', ';
+        }
+      }
+    }
+  }
+
+  img {
     max-width: 67%;
   }
 
-  article p:has(img) {
+  p:has(img) {
     text-align: center;
   }
+}
 </style>
 
 <article>
+  <header>
+    <h1>{{ page.title }}</h1>
+
+    <div>
+    <time datetime="{{ page.date | date_to_xmlschema }}">
+      {{ page.date | date: "%B %-d, %Y" }}
+    </time>
+
+    {% if page.tags and page.tags.size > 0 %}
+    <span>Tags:</span>
+    <ul>
+      {% for tag in page.tags %}
+      <li><a href="/t/{{ tag | slugify }}.html">{{ tag }}</a></li>
+      {% endfor %}
+    </ul>
+    {% endif %}
+    </div>
+  </header>
+
   {{ content }}
 </article>
