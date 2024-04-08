@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "@divriots/jampack": "^0.23.4",
+    "front-matter": "^4.0.2",
+    "ramda": "^0.29.1",
+    "yaml": "^2.4.1"
+  }
+}

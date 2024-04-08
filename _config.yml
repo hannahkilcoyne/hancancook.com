@@ -1,0 +1,27 @@
+plugins:
+  - jekyll-archives
+  - jekyll-feed
+
+markdown: kramdown
+
+exclude:
+  - package.json
+  - package-lock.json
+  - node_modules
+  - build.sh
+  - tidy.cfg
+  - jampack.config.cjs
+
+permalink: /p/:year/:title:output_ext
+
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layout: archive
+  permalinks:
+    tag: '/t/:name.html'
+    category: '/c/:name.html'
+
+feed:
+  posts_limit: 2000

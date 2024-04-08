@@ -1,0 +1,50 @@
+---
+layout: page
+---
+
+{{ content }}
+
+<style type="text/css">
+.archive {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(10em, 1fr));
+  grid-gap: 1em;
+}
+
+.archive article {
+  display: block;
+}
+
+.archive article img {
+  max-width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+}
+</style>
+
+{% if page.posts %}
+  {% assign posts = page.posts %}
+{% else %}
+  {% assign posts = site.posts %}
+{% endif %}
+
+
+<h1>{{ page.title }}</h1>
+
+<div class="archive">
+{% for post in posts  %}
+<article>
+  {% if post.thumbnail %}
+  <a href="{{ post.url }}">
+    <img src="/upload/{{ post.thumbnail }}"
+         alt="Picture of {{ post.title }}">
+  </a>
+  {% endif %}
+
+  <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+  <time datetime="{{ post.date | date_to_xmlschema }}">
+    {{ post.date | date: "%B %-d, %Y" }}
+  </time>
+</article>
+{% endfor %}
+</div>
