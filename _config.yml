@@ -1,6 +1,6 @@
 plugins:
-  - jekyll-archives
   - jekyll-feed
+  - jekyll-paginate-v2
 
 markdown: kramdown
 
@@ -14,14 +14,39 @@ exclude:
 
 permalink: /p/:year/:title:output_ext
 
-jekyll-archives:
-  enabled:
-    - categories
-    - tags
-  layout: archive
-  permalinks:
-    tag: '/t/:name.html'
-    category: '/c/:name.html'
-
 feed:
   posts_limit: 2000
+
+pagination:
+  enabled: true
+  debug: true
+  per_page: 21
+  permalink: '/index:num.html'
+  title: ':title - page :num'
+  sort_field: 'date'
+  sort_reverse: true
+  trail:
+    before: 2
+    after: 2
+
+autopages:
+  enabled: true
+  categories: 
+    layouts: 
+      - 'archive.html'
+    title: 'Posts in category :cat'
+    permalink: '/c/:cat'
+    silent: false
+    slugify:
+      mode: 'default'   # :cat is slugified. Modes: default, raw, pretty, ascii, latin
+      case: true        # Whether to replace all uppercase letters with their lowercase counterparts
+
+  tags:
+    layouts: 
+      - 'archive.html'
+    title: 'Posts tagged with :tag' # :tag is replaced by the tag name
+    permalink: '/t/:tag'
+    silent: false
+    slugify:
+      mode: 'default' 
+      case: true

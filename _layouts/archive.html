@@ -37,19 +37,59 @@ layout: page
     }
   }
 }
+
+[aria-label="Pagination Navigation"] {
+  margin: 2em;
+  text-align: center;
+
+  --border-size: 2px;
+
+  ul {
+    display: inline-block;
+    border: var(--color-accent) solid var(--border-size);
+    border-radius: .25rem;
+    padding: 0;
+
+    li {
+      display: inline-block;
+
+      a {
+        display: inline-block;
+        padding: 0.5em;
+        color: var(--color-accent);
+
+        /* ⇐ */
+        /* ⇒ */
+
+        text-decoration: none;
+      }
+
+      a:hover {
+        text-decoration: underline;
+      }
+    }
+
+    [aria-current="page"] {
+      background-color: var(--color-accent);
+
+      a {
+        color: var(--color-bg);
+      }
+    }
+
+    /*
+    li + li {
+      border-left: var(--color-accent) solid var(--border-size);
+    }
+    */
+  }
+}
 </style>
-
-{% if page.posts %}
-  {% assign posts = page.posts %}
-{% else %}
-  {% assign posts = site.posts %}
-{% endif %}
-
 
 <h1>{{ page.title }}</h1>
 
 <div class="archive">
-{% for post in posts  %}
+{% for post in paginator.posts  %}
 <article>
   {% if post.thumbnail %}
   <a href="{{ post.url }}">
@@ -65,3 +105,32 @@ layout: page
 </article>
 {% endfor %}
 </div>
+
+
+{% if paginator.total_pages > 1 %}
+<nav role="navigation" aria-label="Pagination Navigation">
+  <ul>
+    {% if paginator.previous_page %}
+    <li>
+      <a href="{{ paginator.previous_page_path | prepend: site.baseurl
+        }}">Previous</a>
+    </li>
+    {% endif %}
+
+    {% if paginator.page_trail %}
+    {% for trail in paginator.page_trail %}
+    <li {% if page.url == trail.path %}aria-current="page"{% endif %}>
+      <a href="{{ trail.path | prepend: site.baseurl }}" title="{{trail.title}}">{{ trail.num }}</a>
+    </li>
+    {% endfor %}
+    {% endif %}
+
+    {% if paginator.next_page %}
+    <li>
+      <a href="{{ paginator.next_page_path | prepend: site.baseurl }}">Next</a>
+    </li>
+    {% endif %}
+  </ul>
+</nav>
+{% endif %}
+

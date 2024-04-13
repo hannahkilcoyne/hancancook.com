@@ -8,6 +8,6 @@ layout: page
 
 <ul>
 {% for tag in all_tags %}
-  <li><a href="/t/{{ tag[0] }}.html">{{ tag[0] }}</a></li>
+  <li><a href="/t/{{ tag[0] | slugify }}/">{{ tag[0] }}</a></li>
 {% endfor %}
 </ul>
