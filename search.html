@@ -1,0 +1,28 @@
+---
+title: Search
+layout: archive
+---
+
+<style type="text/css">
+form {
+  margin: 2em auto;
+  text-align: center;
+}
+</style>
+
+<script type="text/javascript" src="/js/lunr.js"></script>
+<script type="text/javascript" src="/js/search-index.js"></script>
+<script type="text/javascript" src="/js/search.js"></script>
+
+<form action="/search.html" method="get">
+  <input type="search" name="query">
+  <input type="submit" value="Search">
+</form>
+
+<template id="search-result">
+  <article>
+    <a><img></a>
+    <h1><a></a></h1>
+    <time></time>
+  </article>
+</template>

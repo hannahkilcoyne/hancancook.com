@@ -14,21 +14,15 @@ header_image: jc2.jpg
 
 ![Image of The Famous Jelly Cookies.](/upload/jc2.jpg)
 
-3QZD11QQAJelly Cookies
+# Jelly Cookies
 
-¾ cup butter, softened
-
-⅔ cup sugar
-
-¼ tsp salt
-
-1 tsp vanilla
-
-1 tbsp light cream
-
-2 egg yolks
-
-2 cups flour
+- ¾ cup butter, softened
+- ⅔ cup sugar
+- ¼ tsp salt
+- 1 tsp vanilla
+- 1 tbsp light cream
+- 2 egg yolks
+- 2 cups flour
 
 Preheat oven to 325
 
@@ -39,17 +33,6 @@ Gradually add flour until it is well combined and dough is smooth. Divide dough 
 Roll out dough to ¼ inch thickness. Cut out cookies. Cut centers out of half of the cookies. Bake 12-15 minutes or until edges of cookies are golden.
 
 After baking, put one whole cookie and one cut-out cookie together with jelly.
-
-## Ingredients
-
-
-
-## Instructions
-
-
-
-
-
 
 
 ![Image of The Famous Jelly Cookies.](/upload/jc1.jpg)
