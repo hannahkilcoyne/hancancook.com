@@ -25,7 +25,7 @@ feed:
 pagination:
   enabled: true
   debug: true
-  per_page: 21
+  per_page: 18
   permalink: '/index:num.html'
   title: ':title - page :num'
   sort_field: 'date'
