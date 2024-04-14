@@ -13,10 +13,15 @@
         --size-page-margin: 2rem;
         --size-base-font: 17px;
 
-        --color-bg: #fefefe;
-        --color-fg: #555555;
-        --color-fg-light: #aaaaaa;
-        --color-accent: #30aba3;
+        --color-white: #fefefe;
+        --color-black: #555555;
+        --color-grey: #aaaaaa;
+        --color-teal: #30aba3;
+
+        --color-bg: var(--color-white);
+        --color-fg: var(--color-black);
+        --color-fg-light: var(--color-grey);
+        --color-accent: var(--color-teal);
         --color-link: #6782ae;
         --color-link-visited: #7f788e;
 
@@ -32,6 +37,11 @@
           --color-fg: #999999;
           --color-fg-light: #666666;
         }
+      }
+
+      ::selection {
+        color: var(--color-white);
+        background-color: var(--color-teal);
       }
 
       body {
