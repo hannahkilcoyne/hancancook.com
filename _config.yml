@@ -31,6 +31,8 @@ pagination:
 
 autopages:
   enabled: true
+  collections:
+    enabled: false
   categories: 
     layouts: 
       - 'archive.html'
@@ -40,7 +42,6 @@ autopages:
     slugify:
       mode: 'default'   # :cat is slugified. Modes: default, raw, pretty, ascii, latin
       case: true        # Whether to replace all uppercase letters with their lowercase counterparts
-
   tags:
     layouts: 
       - 'archive.html'
