@@ -58,9 +58,6 @@ layout: page
         padding: 0.5em;
         color: var(--color-accent);
 
-        /* ⇐ */
-        /* ⇒ */
-
         text-decoration: none;
       }
 
@@ -76,12 +73,6 @@ layout: page
         color: var(--color-bg);
       }
     }
-
-    /*
-    li + li {
-      border-left: var(--color-accent) solid var(--border-size);
-    }
-    */
   }
 }
 </style>
@@ -112,22 +103,21 @@ layout: page
   <ul>
     {% if paginator.previous_page %}
     <li>
-      <a href="{{ paginator.previous_page_path | prepend: site.baseurl
-        }}">Previous</a>
+      <a href="{{ paginator.previous_page_path }}">⇐</a>
     </li>
     {% endif %}
 
     {% if paginator.page_trail %}
     {% for trail in paginator.page_trail %}
     <li {% if page.url == trail.path %}aria-current="page"{% endif %}>
-      <a href="{{ trail.path | prepend: site.baseurl }}" title="{{trail.title}}">{{ trail.num }}</a>
+      <a href="{{ trail.path }}" title="{{trail.title}}">{{ trail.num }}</a>
     </li>
     {% endfor %}
     {% endif %}
 
     {% if paginator.next_page %}
     <li>
-      <a href="{{ paginator.next_page_path | prepend: site.baseurl }}">Next</a>
+      <a href="{{ paginator.next_page_path }}">⇒</a>
     </li>
     {% endif %}
   </ul>
