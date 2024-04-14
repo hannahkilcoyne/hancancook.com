@@ -1,3 +1,5 @@
+url: https://hancancook.com
+
 plugins:
   - jekyll-feed
   - jekyll-paginate-v2
