@@ -22,6 +22,11 @@ layout: page
     a {
       color: inherit;
       text-decoration: none;
+      transition: var(--transition-default);
+    }
+
+    a:hover {
+      color: var(--color-accent);
     }
 
     time {
@@ -53,16 +58,24 @@ layout: page
     li {
       display: inline-block;
 
+      transition: var(--transition-default);
+
       a {
         display: inline-block;
         padding: 0.5em;
         color: var(--color-accent);
 
         text-decoration: none;
-      }
 
-      a:hover {
-        text-decoration: underline;
+        transition: var(--transition-default);
+      }
+    }
+
+    li:hover {
+      background-color: var(--color-accent);
+
+      a {
+        color: var(--color-bg);
       }
     }
 
