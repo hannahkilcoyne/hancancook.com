@@ -1,4 +1,6 @@
+title: Han Can Cook
 url: https://hancancook.com
+author: Hannah Aghdam
 
 plugins:
   - jekyll-feed
