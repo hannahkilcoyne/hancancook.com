@@ -1,6 +1,7 @@
 plugins:
   - jekyll-feed
   - jekyll-paginate-v2
+  - jekyll-tidy
 
 markdown: kramdown
 
@@ -51,3 +52,6 @@ autopages:
     slugify:
       mode: 'default' 
       case: true
+
+jekyll_tidy:
+  compress_html: false

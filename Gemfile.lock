@@ -23,6 +23,8 @@ GEM
       rake (>= 13)
     google-protobuf (4.26.1-x86_64-linux)
       rake (>= 13)
+    htmlbeautifier (1.4.3)
+    htmlcompressor (0.4.0)
     http_parser.rb (0.8.0)
     i18n (1.14.4)
       concurrent-ruby (~> 1.0)
@@ -48,6 +50,10 @@ GEM
       jekyll (>= 3.0, < 5.0)
     jekyll-sass-converter (3.0.0)
       sass-embedded (~> 1.54)
+    jekyll-tidy (0.2.2)
+      htmlbeautifier
+      htmlcompressor
+      jekyll
     jekyll-watch (2.2.1)
       listen (~> 3.0)
     kramdown (2.4.0)
@@ -150,6 +156,7 @@ DEPENDENCIES
   jekyll
   jekyll-feed
   jekyll-paginate-v2
+  jekyll-tidy
 
 BUNDLED WITH
    2.5.4
