@@ -2,7 +2,7 @@
 layout: post
 title: Well, that was nerve wracking...
 tags: []
-thumbnail: IMG_20160722_094718.jpg
+image: IMG_20160722_094718.jpg
 categories:
   - House
 header_image: IMG_20160722_094718.jpg

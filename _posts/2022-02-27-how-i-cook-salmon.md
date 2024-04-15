@@ -7,7 +7,7 @@ categories:
 tags:
   - Entree
   - Dairy free
-thumbnail: /69edbcb4-ef5f-4997-808e-49f0fc2dea48_1_201_a.jpeg
+image: /69edbcb4-ef5f-4997-808e-49f0fc2dea48_1_201_a.jpeg
 
 ---
 

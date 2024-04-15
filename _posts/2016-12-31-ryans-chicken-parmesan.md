@@ -4,7 +4,7 @@ title: Ryan's Chicken Parmesan
 tags:
   - Chicken
   - Entree
-thumbnail: cp12.jpg
+image: cp12.jpg
 categories:
   - Recipe
 header_image: cp12.jpg

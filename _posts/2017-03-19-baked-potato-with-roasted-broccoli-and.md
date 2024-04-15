@@ -5,7 +5,7 @@ tags:
   - Vegetarian
   - Vegetables
   - Side
-thumbnail: bp1.jpg
+image: bp1.jpg
 categories:
   - Recipe
 header_image: bp1.jpg

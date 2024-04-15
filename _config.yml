@@ -5,7 +5,7 @@ author: Hannah Aghdam
 plugins:
   - jekyll-feed
   - jekyll-paginate-v2
-  - jekyll-tidy
+  - jekyll-seo-tag
 
 markdown: kramdown
 
@@ -13,8 +13,6 @@ exclude:
   - package.json
   - package-lock.json
   - node_modules
-  - build.sh
-  - tidy.cfg
   - jampack.config.cjs
 
 permalink: /p/:year/:title:output_ext
@@ -53,6 +51,3 @@ autopages:
     slugify:
       mode: 'default' 
       case: true
-
-jekyll_tidy:
-  compress_html: false

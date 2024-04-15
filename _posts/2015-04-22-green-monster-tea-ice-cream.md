@@ -3,7 +3,7 @@ layout: post
 title: Green Monster Tea Ice Cream
 tags:
   - Dessert
-thumbnail: IMG_1418.JPG
+image: IMG_1418.JPG
 categories:
   - Recipe
 header_image: IMG_1418.JPG

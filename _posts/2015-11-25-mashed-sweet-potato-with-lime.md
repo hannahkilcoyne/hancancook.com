@@ -6,7 +6,7 @@ tags:
   - Vegetables
   - Thanksgiving
   - Side
-thumbnail: spl3.jpg
+image: spl3.jpg
 categories:
   - Recipe
 header_image: spl3.jpg

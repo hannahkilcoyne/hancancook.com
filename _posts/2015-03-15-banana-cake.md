@@ -5,7 +5,7 @@ tags:
   - Vegetarian
   - Cake
   - Baked goods
-thumbnail: bb3.jpg
+image: bb3.jpg
 categories:
   - Recipe
 header_image: bb3.jpg

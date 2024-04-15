@@ -5,7 +5,7 @@ tags:
   - Cookies
   - Baked goods
   - Dessert
-thumbnail: osc1.jpg
+image: osc1.jpg
 categories:
   - Recipe
 header_image: osc1.jpg

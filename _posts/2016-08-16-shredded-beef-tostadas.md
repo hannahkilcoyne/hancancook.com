@@ -4,7 +4,7 @@ title: Shredded Beef Tostadas
 tags:
   - Entree
   - Beef
-thumbnail: bt1.jpg
+image: bt1.jpg
 categories:
   - Recipe
 header_image: bt1.jpg

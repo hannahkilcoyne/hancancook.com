@@ -7,7 +7,7 @@ window.store = {
     "title": "{{ post.title | strip_html | escape }}",
     "url": "{{ site.baseurl }}{{ post.url }}",
     "date": "{{ post.date | date: "%B %-d, %Y" }}",
-    "thumbnail": "/upload/{{ post.thumbnail }}",
+    "image": "/upload/{{ post.image }}",
     "content": {{ post.content | strip_html | jsonify }},
   },
   {% endfor %}

@@ -4,7 +4,7 @@ title: Skillet Lasagna
 tags:
   - Pork
   - Entree
-thumbnail: skl1.jpg
+image: skl1.jpg
 categories:
   - Recipe
 header_image: skl1.jpg

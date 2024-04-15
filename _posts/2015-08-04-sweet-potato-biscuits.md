@@ -5,7 +5,7 @@ tags:
   - Side
   - Vegetarian
   - Baked goods
-thumbnail: spb2.jpg
+image: spb2.jpg
 categories:
   - Recipe
 header_image: spb2.jpg

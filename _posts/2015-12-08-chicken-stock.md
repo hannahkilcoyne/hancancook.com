@@ -3,7 +3,7 @@ layout: post
 title: Chicken Stock
 tags:
   - Soups
-thumbnail: stock.jpg
+image: stock.jpg
 categories:
   - Recipe
 header_image: stock.jpg

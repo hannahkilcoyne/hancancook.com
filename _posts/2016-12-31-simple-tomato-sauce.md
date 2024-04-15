@@ -4,7 +4,7 @@ title: Simple Tomato Sauce
 tags:
   - Vegetarian
   - Sauces and salsas
-thumbnail: mar01.jpg
+image: mar01.jpg
 categories:
   - Recipe
 header_image: mar01.jpg

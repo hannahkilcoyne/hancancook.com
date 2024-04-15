@@ -5,7 +5,7 @@ tags:
   - Vegetarian
   - Baked goods
   - Breakfast
-thumbnail: ftc1.jpg
+image: ftc1.jpg
 categories:
   - Recipe
 header_image: ftc1.jpg

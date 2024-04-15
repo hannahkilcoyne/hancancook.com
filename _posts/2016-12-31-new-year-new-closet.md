@@ -2,7 +2,7 @@
 layout: post
 title: New Year, New Closet
 tags: []
-thumbnail: cl03.jpg
+image: cl03.jpg
 categories:
   - House
 header_image: cl03.jpg

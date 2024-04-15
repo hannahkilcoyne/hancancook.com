@@ -5,7 +5,7 @@ tags:
   - Vegetarian
   - Vegetables
   - Salad
-thumbnail: rb1.jpg
+image: rb1.jpg
 categories:
   - Recipe
 header_image: rb1.jpg

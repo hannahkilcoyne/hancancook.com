@@ -5,7 +5,7 @@ tags:
   - Vegetarian
   - Entree
   - Soup
-thumbnail: wm_1.jpg
+image: wm_1.jpg
 categories:
   - Recipe
 header_image: wm_1.jpg

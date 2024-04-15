@@ -5,7 +5,7 @@ tags:
   - Side
   - Pork
   - Thanksgiving
-thumbnail: sas1.jpg
+image: sas1.jpg
 categories:
   - Recipe
 header_image: sas1.jpg

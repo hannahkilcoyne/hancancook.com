@@ -4,7 +4,7 @@ title: Greek Salad and Hummus Wrap
 tags:
   - Vegetarian
   - Sandwiches and wraps
-thumbnail: gw1.jpg
+image: gw1.jpg
 categories:
   - Recipe
 header_image: gw1.jpg

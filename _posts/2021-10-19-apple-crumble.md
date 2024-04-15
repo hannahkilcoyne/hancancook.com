@@ -3,7 +3,7 @@ layout: post
 title: Apple Crumble
 header_image: /img_0083.jpeg
 categories: []
-thumbnail: /img_0083.jpeg
+image: /img_0083.jpeg
 
 ---
 

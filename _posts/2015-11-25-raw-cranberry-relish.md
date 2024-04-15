@@ -7,7 +7,7 @@ tags:
   - Dairy free
   - Thanksgiving
   - Side
-thumbnail: cr3.jpg
+image: cr3.jpg
 categories:
   - Recipe
 header_image: cr3.jpg

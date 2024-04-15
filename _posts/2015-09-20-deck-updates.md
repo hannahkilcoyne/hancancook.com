@@ -2,7 +2,7 @@
 layout: post
 title: Deck Updates
 tags: []
-thumbnail: IMG_2989.jpg
+image: IMG_2989.jpg
 categories:
   - House
 header_image: IMG_2989.jpg

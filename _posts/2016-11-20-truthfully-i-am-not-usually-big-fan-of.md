@@ -4,7 +4,7 @@ title: Barbecue Smoked Turkey
 tags:
   - Dairy free
   - Entree
-thumbnail: sbt1.jpg
+image: sbt1.jpg
 categories:
   - Recipe
 header_image: sbt1.jpg

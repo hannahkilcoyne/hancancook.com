@@ -5,7 +5,7 @@ tags:
   - Baked goods
   - Chicken
   - Entree
-thumbnail: chp1.jpg
+image: chp1.jpg
 categories:
   - Recipe
 header_image: chp1.jpg

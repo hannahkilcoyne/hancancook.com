@@ -2,7 +2,7 @@
 layout: post
 title: Goodbye Barbie House
 tags: []
-thumbnail: IMG_2942.jpg
+image: IMG_2942.jpg
 categories:
   - House
 header_image: IMG_2942.jpg

@@ -2,7 +2,7 @@
 layout: post
 title: Our New Table
 tags: []
-thumbnail: table1.jpg
+image: table1.jpg
 categories:
   - House
 header_image: table1.jpg

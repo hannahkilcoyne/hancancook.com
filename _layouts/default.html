@@ -2,11 +2,12 @@
 <html lang="en-US">
   <head>
     <meta charset="utf-8">
-    <title>Han Can Cook{% if page.title %} - {{ page.title }}{% endif %}</title>
     <link href="/favicon.ico" rel="icon" type="image/x-icon">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    {% seo %}
+
     <meta name="color-scheme" content="light dark">
-    {% feed_meta %}
     <meta name="theme-color" content="#30aba3">
 
     <style type="text/css">
@@ -103,6 +104,8 @@
         text-align: center;
       }
     </style>
+
+    {% feed_meta %}
   </head>
 
   <body>

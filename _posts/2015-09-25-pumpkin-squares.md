@@ -6,7 +6,7 @@ tags:
   - Dessert
   - Baked goods
   - Thanksgiving
-thumbnail: ps2.jpg
+image: ps2.jpg
 categories:
   - Recipe
 header_image: ps2.jpg

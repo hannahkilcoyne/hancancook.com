@@ -5,7 +5,7 @@ tags:
   - Dairy free
   - Vegetarian
   - Sauces and salsas
-thumbnail: mbs1.jpg
+image: mbs1.jpg
 categories:
   - Recipe
 header_image: mbs1.jpg

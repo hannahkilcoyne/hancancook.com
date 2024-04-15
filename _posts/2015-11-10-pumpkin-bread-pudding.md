@@ -5,7 +5,7 @@ tags:
   - Vegetarian
   - Dessert
   - Baked goods
-thumbnail: pumpkin2.jpg
+image: pumpkin2.jpg
 categories:
   - Recipe
 header_image: pumpkin2.jpg

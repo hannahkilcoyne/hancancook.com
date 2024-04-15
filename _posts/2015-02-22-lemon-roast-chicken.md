@@ -4,7 +4,7 @@ title: Lemon Roast Chicken
 tags:
   - Chicken
   - Entree
-thumbnail: roast-chicken2.jpg
+image: roast-chicken2.jpg
 categories:
   - Recipe
 header_image: roast-chicken2.jpg

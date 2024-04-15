@@ -4,7 +4,7 @@ title: Monte Cristo Sandwiches
 tags:
   - Breakfast
   - Sandwiches and wraps
-thumbnail: mc.jpg
+image: mc.jpg
 categories:
   - Recipe
 header_image: mc.jpg

@@ -5,7 +5,7 @@ tags:
   - Dairy free
   - Entree
   - Soup
-thumbnail: sts2.jpg
+image: sts2.jpg
 categories:
   - Recipe
 header_image: sts2.jpg

@@ -4,7 +4,7 @@ title: Grilled Corn and Avocado Salad
 tags:
   - Chicken
   - Salad
-thumbnail: cas02.jpg
+image: cas02.jpg
 categories:
   - Recipe
 header_image: cas02.jpg

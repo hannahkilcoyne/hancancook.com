@@ -5,7 +5,7 @@ tags:
   - Vegetarian
   - Baked goods
   - Dessert
-thumbnail: spcb1.jpg
+image: spcb1.jpg
 categories:
   - Recipe
 header_image: spcb1.jpg

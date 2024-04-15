@@ -6,7 +6,7 @@ tags:
   - Dairy free
   - Vegetables
   - Vegetarian
-thumbnail: bsp1.jpg
+image: bsp1.jpg
 categories:
   - Recipe
 header_image: bsp1.jpg

@@ -5,7 +5,7 @@ tags:
   - Vegetarian
   - Vegetables
   - Side
-thumbnail: gmp.jpg
+image: gmp.jpg
 categories:
   - Recipe
 header_image: gmp.jpg

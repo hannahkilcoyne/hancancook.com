@@ -5,7 +5,7 @@ tags:
   - Dairy free
   - Vegetarian
   - Baked goods
-thumbnail: nkb1.jpg
+image: nkb1.jpg
 categories:
   - Recipe
 header_image: nkb1.jpg

@@ -4,7 +4,7 @@ title: Raspberry Bullshits
 tags:
   - Dessert
   - Baked goods
-thumbnail: IMG_4277.jpg
+image: IMG_4277.jpg
 categories:
   - Recipe
 header_image: IMG_4277.jpg

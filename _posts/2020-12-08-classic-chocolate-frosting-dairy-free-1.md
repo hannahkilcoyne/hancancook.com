@@ -7,7 +7,7 @@ tags:
   - Dessert
   - Dairy free
   - Cake
-thumbnail: /img_0082.jpeg
+image: /img_0082.jpeg
 
 ---
 

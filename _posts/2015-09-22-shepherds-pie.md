@@ -4,7 +4,7 @@ title: Shepherd's Pie
 tags:
   - Entree
   - Beef
-thumbnail: sp1.jpg
+image: sp1.jpg
 categories:
   - Recipe
 header_image: sp1.jpg

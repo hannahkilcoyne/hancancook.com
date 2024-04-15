@@ -13,14 +13,14 @@ function buildIndex() {
     this.field("id");
     this.field("title", { boost: 10 });
     this.field("date");
-    this.field("thumbnail");
+    this.field("image");
     this.field("content");
 
     Object.keys(window.store).forEach((key) => {
       this.add({
         id: key,
         title: window.store[key].title,
-        thumbnail: window.store[key].thumbnail,
+        image: window.store[key].image,
         date: window.store[key].date,
         content: window.store[key].content,
       });
@@ -57,12 +57,12 @@ function displaySearchResults() {
       $a.href = result.url;
       $a.textContent = result.title;
 
-      const $thumbnail = clone.querySelector("a img");
-      $thumbnail.src = result.thumbnail;
-      $thumbnail.alt = `Image of ${result.title}.`;
+      const $image = clone.querySelector("a img");
+      $image.src = result.image;
+      $image.alt = `Image of ${result.title}.`;
 
-      const $thumbnailLink = clone.querySelector("a:has(img)");
-      $thumbnailLink.href = result.url;
+      const $imageLink = clone.querySelector("a:has(img)");
+      $imageLink.href = result.url;
 
       const $date = clone.querySelector("time");
       $date.textContent = result.date;

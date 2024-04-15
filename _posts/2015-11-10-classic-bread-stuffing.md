@@ -4,7 +4,7 @@ title: Classic Bread Stuffing
 tags:
   - Thanksgiving
   - Side
-thumbnail: stuffing1.jpg
+image: stuffing1.jpg
 categories:
   - Recipe
 header_image: stuffing1.jpg

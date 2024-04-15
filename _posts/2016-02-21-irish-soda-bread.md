@@ -4,7 +4,7 @@ title: Irish Soda Bread
 tags:
   - Vegetarian
   - Baked goods
-thumbnail: ISB1.jpg
+image: ISB1.jpg
 categories:
   - Recipe
 header_image: ISB1.jpg

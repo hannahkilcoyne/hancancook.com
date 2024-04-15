@@ -5,7 +5,7 @@ tags:
   - Sauces and salsas
   - Beef
   - Entree
-thumbnail: pw3.jpg
+image: pw3.jpg
 categories:
   - Recipe
 header_image: pw3.jpg

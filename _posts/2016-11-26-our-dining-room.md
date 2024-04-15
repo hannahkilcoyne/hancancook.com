@@ -2,7 +2,7 @@
 layout: post
 title: Our Dining Room
 tags: []
-thumbnail: DR0.jpg
+image: DR0.jpg
 categories:
   - House
 header_image: DR0.jpg

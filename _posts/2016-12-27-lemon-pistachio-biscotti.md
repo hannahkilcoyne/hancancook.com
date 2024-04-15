@@ -6,7 +6,7 @@ tags:
   - Dessert
   - Cookies
   - Baked goods
-thumbnail: lpb2.jpg
+image: lpb2.jpg
 categories:
   - Recipe
 header_image: lpb2.jpg

@@ -5,7 +5,7 @@ tags:
   - Vegetarian
   - Dairy free
   - Side
-thumbnail: couscous2.jpg
+image: couscous2.jpg
 categories:
   - Recipe
 header_image: couscous2.jpg

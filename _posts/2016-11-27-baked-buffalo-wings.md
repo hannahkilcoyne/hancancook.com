@@ -4,7 +4,7 @@ title: Baked Buffalo Wings
 tags:
   - Appetizer
   - Chicken
-thumbnail: bw2.jpg
+image: bw2.jpg
 categories:
   - Recipe
 header_image: bw2.jpg

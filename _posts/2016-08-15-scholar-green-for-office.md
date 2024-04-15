@@ -2,7 +2,7 @@
 layout: post
 title: Scholar Green for the Office
 tags: []
-thumbnail: IMG_4251.jpg
+image: IMG_4251.jpg
 categories:
   - House
 header_image: IMG_4251.jpg

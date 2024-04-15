@@ -6,7 +6,7 @@ tags:
   - Vegetarian
   - Vegetables
   - Appetizer
-thumbnail: /img_6303.jpg
+image: /img_6303.jpg
 categories:
   - Recipe
 header_image: /img_6303.jpg

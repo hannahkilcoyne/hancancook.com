@@ -5,7 +5,7 @@ tags:
   - Vegetarian
   - Cookies
   - Baked goods
-thumbnail: IMG_3793.jpg
+image: IMG_3793.jpg
 categories:
   - Recipe
 header_image: IMG_3793.jpg

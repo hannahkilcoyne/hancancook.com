@@ -5,7 +5,7 @@ tags:
   - Dairy free
   - Entree
   - Beef
-thumbnail: sp02.jpg
+image: sp02.jpg
 categories:
   - Recipe
 header_image: sp02.jpg

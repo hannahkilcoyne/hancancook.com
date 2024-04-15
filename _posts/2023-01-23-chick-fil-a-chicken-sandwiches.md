@@ -9,7 +9,7 @@ tags:
   - Sandwiches and wraps
   - Dairy free
   - Chicken
-thumbnail: /img_3279.jpeg
+image: /img_3279.jpeg
 
 ---
 

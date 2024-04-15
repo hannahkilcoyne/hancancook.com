@@ -5,7 +5,7 @@ tags:
   - Dessert
   - Baked goods
   - Cookies
-thumbnail: VS_2.jpg
+image: VS_2.jpg
 categories:
   - Recipe
 header_image: VS_2.jpg

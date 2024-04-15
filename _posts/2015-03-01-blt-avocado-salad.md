@@ -4,7 +4,7 @@ title: BLT Avocado Salad
 tags:
   - Pork
   - Salad
-thumbnail: blta4.jpg
+image: blta4.jpg
 categories:
   - Recipe
 header_image: blta4.jpg

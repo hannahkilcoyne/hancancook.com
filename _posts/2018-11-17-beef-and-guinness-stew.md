@@ -4,7 +4,7 @@ title: Beef and Guinness Stew
 tags:
   - Entree
   - Beef
-thumbnail: BGS-3-2018-10-14.jpg
+image: BGS-3-2018-10-14.jpg
 categories:
   - Recipe
 header_image: BGS-3-2018-10-14.jpg

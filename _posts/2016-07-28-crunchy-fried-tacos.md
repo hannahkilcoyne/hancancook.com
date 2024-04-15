@@ -4,7 +4,7 @@ title: Crunchy Fried Tacos
 tags:
   - Beef
   - Entree
-thumbnail: ct.jpg
+image: ct.jpg
 categories:
   - Recipe
 header_image: ct.jpg

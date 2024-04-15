@@ -4,7 +4,7 @@ title: Black Forest Ham with Brown Sugar Glaze
 tags:
   - Entree
   - Pork
-thumbnail: IMG_0443.gif
+image: IMG_0443.gif
 categories:
   - Recipe
 header_image: IMG_0443.gif
