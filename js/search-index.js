@@ -8,6 +8,7 @@ window.store = {
     "url": "{{ site.baseurl }}{{ post.url }}",
     "date": "{{ post.date | date: "%B %-d, %Y" }}",
     "thumbnail": "/upload/{{ post.thumbnail }}",
+    "content": {{ post.content | strip_html | jsonify }},
   },
   {% endfor %}
 };

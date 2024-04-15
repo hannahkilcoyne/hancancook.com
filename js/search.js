@@ -14,6 +14,7 @@ function buildIndex() {
     this.field("title", { boost: 10 });
     this.field("date");
     this.field("thumbnail");
+    this.field("content");
 
     Object.keys(window.store).forEach((key) => {
       this.add({
@@ -21,6 +22,7 @@ function buildIndex() {
         title: window.store[key].title,
         thumbnail: window.store[key].thumbnail,
         date: window.store[key].date,
+        content: window.store[key].content,
       });
     });
   });
@@ -36,7 +38,16 @@ function displaySearchResults() {
   const $container = document.querySelector(".archive");
   const template = document.querySelector("#search-result");
 
-  getSearchResults()
+  const results = getSearchResults();
+
+  if (results.length === 0) {
+    const $message = document.createElement("p");
+    $message.textContent = "Your search did not return any results."
+
+    $container.appendChild($message);
+  }
+
+  results
     .map(result => window.store[result.ref])
     .forEach((result) => {
       console.log(result);
