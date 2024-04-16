@@ -8,7 +8,7 @@ tags:
   - Beef
   - Entree
   - Dairy free
-image: /img_9885.jpeg
+image: /upload//img_9885.jpeg
 
 ---
 

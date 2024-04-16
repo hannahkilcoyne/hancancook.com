@@ -4,7 +4,7 @@ title: Moroccan Meatballs
 tags:
   - Beef
   - Entree
-image: mm_9.jpg
+image: /upload/mm_9.jpg
 categories:
   - Recipe
 header_image: mm_9.jpg

@@ -6,7 +6,7 @@ tags:
   - Vegetarian
   - Thanksgiving
   - Side
-image: hv2.jpg
+image: /upload/hv2.jpg
 categories:
   - Recipe
 header_image: hv2.jpg

@@ -4,7 +4,7 @@ title: Lemon and Rosemary Risotto
 tags:
   - Entree
   - Vegetarian
-image: lr.jpg
+image: /upload/lr.jpg
 categories:
   - Recipe
 header_image: lr.jpg

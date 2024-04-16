@@ -4,7 +4,7 @@ title: Beer Queso with Sausage and Black Beans
 tags:
   - Appetizer
   - Pork
-image: IMG_3058.jpg
+image: /upload/IMG_3058.jpg
 categories:
   - Recipe
 header_image: IMG_3058.jpg

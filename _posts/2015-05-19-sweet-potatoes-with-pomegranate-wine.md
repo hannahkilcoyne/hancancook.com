@@ -6,7 +6,7 @@ tags:
   - Vegetarian
   - Dairy free
   - Vegetables
-image: pw2.jpg
+image: /upload/pw2.jpg
 categories:
   - Recipe
 header_image: pw2.jpg

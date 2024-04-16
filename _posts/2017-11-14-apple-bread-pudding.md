@@ -2,7 +2,7 @@
 layout: post
 title: Apple Bread Pudding
 tags: []
-image: abp1.jpg
+image: /upload/abp1.jpg
 categories:
   - Recipe
 header_image: abp1.jpg

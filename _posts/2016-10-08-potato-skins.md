@@ -4,7 +4,7 @@ title: Potato Skins
 tags:
   - Pork
   - Appetizer
-image: ps4.jpg
+image: /upload/ps4.jpg
 categories:
   - Recipe
 header_image: ps4.jpg

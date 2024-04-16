@@ -4,7 +4,7 @@ title: Dr. Pepper Pulled Pork
 tags:
   - Pork
   - Entree
-image: dpp2.jpg
+image: /upload/dpp2.jpg
 categories:
   - Recipe
 header_image: dpp2.jpg

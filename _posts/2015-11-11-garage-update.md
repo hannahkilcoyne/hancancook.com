@@ -2,7 +2,7 @@
 layout: post
 title: Garage Update
 tags: []
-image: IMG_0587.jpg
+image: /upload/IMG_0587.jpg
 categories:
   - House
 header_image: IMG_0587.jpg

@@ -6,7 +6,7 @@ tags:
   - Beef
   - Soups
   - Entree
-image: btc-copy.jpg
+image: /upload/btc-copy.jpg
 categories:
   - Recipe
 header_image: btc-copy.jpg

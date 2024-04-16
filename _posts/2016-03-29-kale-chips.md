@@ -6,7 +6,7 @@ tags:
   - Vegetables
   - Vegetarian
   - Side
-image: kc.jpg
+image: /upload/kc.jpg
 categories:
   - Recipe
 header_image: kc.jpg

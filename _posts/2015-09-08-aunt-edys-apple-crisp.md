@@ -2,7 +2,7 @@
 layout: post
 title: Aunt Edy's Apple Crisp
 tags: []
-image: IMG_1892.jpg
+image: /upload/IMG_1892.jpg
 categories:
   - Recipe
 header_image: IMG_1892.jpg

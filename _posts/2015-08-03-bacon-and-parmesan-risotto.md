@@ -4,7 +4,7 @@ title: Bacon and Parmesan Risotto
 tags:
   - Pork
   - Entree
-image: risotto1.jpg
+image: /upload/risotto1.jpg
 categories:
   - Recipe
 header_image: risotto1.jpg

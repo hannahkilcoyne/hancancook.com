@@ -4,7 +4,7 @@ title: Parmesan Crusted Chicken with Lemon Vinaigrette Salad
 tags:
   - Chicken
   - Entree
-image: pc.jpg
+image: /upload/pc.jpg
 categories:
   - Recipe
 header_image: pc.jpg

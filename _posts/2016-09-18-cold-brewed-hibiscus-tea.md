@@ -5,7 +5,7 @@ tags:
   - Vegetarian
   - Dairy free
   - Drinks
-image: cbht2.jpg
+image: /upload/cbht2.jpg
 categories:
   - Recipe
 header_image: cbht2.jpg

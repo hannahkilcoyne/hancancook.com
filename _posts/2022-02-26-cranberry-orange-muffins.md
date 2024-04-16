@@ -9,7 +9,7 @@ tags:
   - Vegetarian
   - Muffins
   - Baked goods
-image: /5203a529-258c-4939-9267-dcf91f05147f.jpeg
+image: /upload//5203a529-258c-4939-9267-dcf91f05147f.jpeg
 
 ---
 

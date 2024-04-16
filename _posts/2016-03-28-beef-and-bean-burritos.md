@@ -4,7 +4,7 @@ title: " Beef and Bean Burritos"
 tags:
   - Beef
   - Entree
-image: bbb1.jpg
+image: /upload/bbb1.jpg
 categories:
   - Recipe
 header_image: bbb1.jpg

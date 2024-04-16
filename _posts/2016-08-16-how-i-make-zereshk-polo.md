@@ -4,7 +4,7 @@ title: How I Make Zereshk Polo
 tags:
   - Vegetarian
   - Side
-image: zp1.jpg
+image: /upload/zp1.jpg
 categories:
   - Recipe
 header_image: zp1.jpg

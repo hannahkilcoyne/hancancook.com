@@ -7,7 +7,7 @@ tags:
   - Vegetarian
   - Vegetables
   - Side
-image: rbs1.jpg
+image: /upload/rbs1.jpg
 categories:
   - Recipe
 header_image: rbs1.jpg

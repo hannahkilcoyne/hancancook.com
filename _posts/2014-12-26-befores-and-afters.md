@@ -2,7 +2,7 @@
 layout: post
 title: Befores and Afters
 tags: []
-image: IMG_0242.jpg
+image: /upload/IMG_0242.jpg
 categories:
   - House
 header_image: IMG_0242.jpg

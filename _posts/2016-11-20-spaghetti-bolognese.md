@@ -4,7 +4,7 @@ title: Spaghetti Bolognese
 tags:
   - Beef
   - Entree
-image: sb2.jpg
+image: /upload/sb2.jpg
 categories:
   - Recipe
 header_image: sb2.jpg

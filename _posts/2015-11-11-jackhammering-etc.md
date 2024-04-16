@@ -2,7 +2,7 @@
 layout: post
 title: Jackhammering, etc.
 tags: []
-image: IMG_3146.jpg
+image: /upload/IMG_3146.jpg
 categories:
   - House
 header_image: IMG_3146.jpg

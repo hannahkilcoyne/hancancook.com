@@ -6,7 +6,7 @@ tags:
   - Dessert
   - Cake
   - Baked goods
-image: pbt.jpg
+image: /upload/pbt.jpg
 categories:
   - Recipe
 header_image: pbt.jpg

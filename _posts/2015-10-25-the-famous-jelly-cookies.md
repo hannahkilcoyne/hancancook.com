@@ -5,7 +5,7 @@ tags:
   - Cookies
   - Baked goods
   - Dessert
-image: jc2.jpg
+image: /upload/jc2.jpg
 categories:
   - Recipe
 header_image: jc2.jpg

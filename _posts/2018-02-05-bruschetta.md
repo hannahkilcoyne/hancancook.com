@@ -4,7 +4,7 @@ title: " Bruschetta"
 tags:
   - Vegetarian
   - Appetizer
-image: IMG_6053.jpg
+image: /upload/IMG_6053.jpg
 categories:
   - Recipe
 header_image: IMG_6053.jpg

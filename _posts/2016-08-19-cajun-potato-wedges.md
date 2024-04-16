@@ -6,7 +6,7 @@ tags:
   - Dairy free
   - Vegetarian
   - Vegetables
-image: cpw.jpg
+image: /upload/cpw.jpg
 categories:
   - Recipe
 header_image: cpw.jpg

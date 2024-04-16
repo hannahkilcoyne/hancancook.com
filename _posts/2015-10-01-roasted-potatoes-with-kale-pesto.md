@@ -5,7 +5,7 @@ tags:
   - Vegetarian
   - Vegetables
   - Side
-image: kp2.jpg
+image: /upload/kp2.jpg
 categories:
   - Recipe
 header_image: kp2.jpg

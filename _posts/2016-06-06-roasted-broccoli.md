@@ -6,7 +6,7 @@ tags:
   - Vegetarian
   - Vegetables
   - Side
-image: IMG_5773.jpg
+image: /upload/IMG_5773.jpg
 categories:
   - Recipe
 header_image: IMG_5773.jpg

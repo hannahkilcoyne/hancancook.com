@@ -5,7 +5,7 @@ tags:
   - Vegetarian
   - Dairy free
   - Drinks
-image: vps3.jpg
+image: /upload/vps3.jpg
 categories:
   - Recipe
 header_image: vps3.jpg

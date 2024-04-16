@@ -9,7 +9,7 @@ tags:
   - Dairy free
 categories:
   - Recipe
-image: /img_0247.jpeg
+image: /upload//img_0247.jpeg
 
 ---
 

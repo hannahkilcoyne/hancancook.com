@@ -6,7 +6,7 @@ tags:
   - Dairy free
   - Side
   - Vegetables
-image: sk2.jpg
+image: /upload/sk2.jpg
 categories:
   - Recipe
 header_image: sk2.jpg

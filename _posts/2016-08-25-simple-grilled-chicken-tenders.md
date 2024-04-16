@@ -4,7 +4,7 @@ title: Simple Grilled Chicken Tenders
 tags:
   - Chicken
   - Entree
-image: gct.jpg
+image: /upload/gct.jpg
 categories:
   - Recipe
 header_image: gct.jpg

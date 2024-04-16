@@ -6,7 +6,7 @@ tags:
   - Vegetables
   - Dairy free
   - Vegetarian
-image: rc.jpg
+image: /upload/rc.jpg
 categories:
   - Recipe
 header_image: rc.jpg

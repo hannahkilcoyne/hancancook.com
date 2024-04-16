@@ -2,7 +2,7 @@
 layout: post
 title: Ry's Office
 tags: []
-image: office1.jpg
+image: /upload/office1.jpg
 categories:
   - House
 header_image: office1.jpg

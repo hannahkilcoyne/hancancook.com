@@ -5,7 +5,7 @@ tags:
   - Vegetarian
   - Dairy free
   - Drinks
-image: hem.jpg
+image: /upload/hem.jpg
 categories:
   - Recipe
 header_image: hem.jpg

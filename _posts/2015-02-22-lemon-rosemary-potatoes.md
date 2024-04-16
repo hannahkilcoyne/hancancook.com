@@ -6,7 +6,7 @@ tags:
   - Vegetarian
   - Vegetables
   - Side
-image: lemon-herb-potatoes.jpg
+image: /upload/lemon-herb-potatoes.jpg
 categories:
   - Recipe
 header_image: lemon-herb-potatoes.jpg

@@ -5,7 +5,7 @@ tags:
   - Dairy free
   - Pork
   - Entree
-image: spk.jpg
+image: /upload/spk.jpg
 categories:
   - Recipe
 header_image: spk.jpg

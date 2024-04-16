@@ -5,7 +5,7 @@ tags:
   - Vegetarian
   - Dairy free
   - Side
-image: br1.jpg
+image: /upload/br1.jpg
 categories:
   - Recipe
 header_image: br1.jpg

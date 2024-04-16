@@ -4,7 +4,7 @@ title: Mini Chicken Pot Pies
 tags:
   - Chicken
   - Entree
-image: cp4.jpg
+image: /upload/cp4.jpg
 categories:
   - Recipe
 header_image: cp4.jpg

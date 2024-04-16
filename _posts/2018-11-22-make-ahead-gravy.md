@@ -5,7 +5,7 @@ tags:
   - Sauces and salsas
   - Thanksgiving
   - Side
-image: 2018-11-22-MAG2.jpg
+image: /upload/2018-11-22-MAG2.jpg
 categories:
   - Recipe
 header_image: 2018-11-22-MAG2.jpg

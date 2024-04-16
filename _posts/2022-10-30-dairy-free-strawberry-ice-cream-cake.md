@@ -9,7 +9,7 @@ tags:
   - Dessert
   - Baked goods
   - Cake
-image: /img_0346.jpeg
+image: /upload//img_0346.jpeg
 
 ---
 

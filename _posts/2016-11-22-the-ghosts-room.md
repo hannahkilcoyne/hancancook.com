@@ -2,7 +2,7 @@
 layout: post
 title: The Ghost's Room
 tags: []
-image: GR1.jpg
+image: /upload/GR1.jpg
 categories:
   - House
 header_image: GR1.jpg

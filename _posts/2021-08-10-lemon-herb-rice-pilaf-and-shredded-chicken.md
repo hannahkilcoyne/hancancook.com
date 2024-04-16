@@ -8,7 +8,7 @@ tags:
   - Entree
 categories:
   - Recipe
-image: /9167e7c7-2972-440e-b256-2a92e7be079b_1_201_a.jpeg
+image: /upload//9167e7c7-2972-440e-b256-2a92e7be079b_1_201_a.jpeg
 
 ---
 

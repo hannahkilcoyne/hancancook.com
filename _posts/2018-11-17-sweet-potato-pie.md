@@ -6,7 +6,7 @@ tags:
   - Vegetarian
   - Thanksgiving
   - Baked goods
-image: 2018-11-17-SPP2.jpg
+image: /upload/2018-11-17-SPP2.jpg
 categories:
   - Recipe
 header_image: 2018-11-17-SPP2.jpg

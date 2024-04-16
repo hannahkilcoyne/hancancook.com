@@ -2,7 +2,7 @@
 layout: post
 title: New Door Decoration
 tags: []
-image: door1.jpg
+image: /upload/door1.jpg
 categories:
   - House
 header_image: door1.jpg

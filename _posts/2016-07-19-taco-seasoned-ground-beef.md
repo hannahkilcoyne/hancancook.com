@@ -6,7 +6,7 @@ categories:
 header_image: gb.jpg
 tags:
   - Beef
-image: gb.jpg
+image: /upload/gb.jpg
 
 ---
 

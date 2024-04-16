@@ -2,7 +2,7 @@
 layout: post
 title: Nine paint samples later
 tags: []
-image: IMG_3322.jpg
+image: /upload/IMG_3322.jpg
 categories:
   - House
 header_image: IMG_3322.jpg

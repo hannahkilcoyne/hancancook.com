@@ -5,7 +5,7 @@ tags:
   - Vegetarian
   - Baked goods
   - Breakfast
-image: lrp1.jpg
+image: /upload/lrp1.jpg
 categories:
   - Recipe
 header_image: lrp1.jpg

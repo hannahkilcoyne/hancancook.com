@@ -4,7 +4,7 @@ title: Indian Spiced Roast Chicken
 tags:
   - Chicken
   - Entree
-image: isc.jpg
+image: /upload/isc.jpg
 categories:
   - Recipe
 header_image: isc.jpg

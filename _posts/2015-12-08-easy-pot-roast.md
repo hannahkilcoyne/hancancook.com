@@ -5,7 +5,7 @@ tags:
   - Dairy free
   - Beef
   - Entree
-image: pr.jpg
+image: /upload/pr.jpg
 categories:
   - Recipe
 header_image: pr.jpg

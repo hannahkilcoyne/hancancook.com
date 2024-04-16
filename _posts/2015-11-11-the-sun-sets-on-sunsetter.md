@@ -2,7 +2,7 @@
 layout: post
 title: The Sun Sets on the Sunsetter
 tags: []
-image: IMG_2935.jpg
+image: /upload/IMG_2935.jpg
 categories:
   - House
 header_image: IMG_2935.jpg

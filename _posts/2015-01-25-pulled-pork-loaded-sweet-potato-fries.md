@@ -4,7 +4,7 @@ title: Pulled Pork Loaded Sweet Potato Fries
 tags:
   - Pork
   - Appetizer
-image: /pulledporkfries1.jpg
+image: /upload//pulledporkfries1.jpg
 categories:
   - Recipe
 header_image: /pulledporkfries1.jpg

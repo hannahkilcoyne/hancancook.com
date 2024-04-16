@@ -4,7 +4,7 @@ title: "Guest Post from Ryan: Pulled Pork Recipe"
 tags:
   - Pork
   - Entree
-image: IMG_1701.jpg
+image: /upload/IMG_1701.jpg
 categories:
   - Recipe
 header_image: IMG_1701.jpg

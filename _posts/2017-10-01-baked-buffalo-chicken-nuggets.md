@@ -5,7 +5,7 @@ tags:
   - Entree
   - Dairy free
   - Chicken
-image: bc2.jpg
+image: /upload/bc2.jpg
 categories:
   - Recipe
 header_image: bc2.jpg

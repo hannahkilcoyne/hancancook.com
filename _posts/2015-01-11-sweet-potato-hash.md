@@ -2,7 +2,7 @@
 layout: post
 title: Sweet Potato Hash
 tags: []
-image: hash_1.jpg
+image: /upload/hash_1.jpg
 categories:
   - Recipe
 header_image: hash_1.jpg

@@ -6,7 +6,7 @@ tags:
   - Vegetarian
   - Muffins
   - Baked goods
-image: psm3.jpg
+image: /upload/psm3.jpg
 categories:
   - Recipe
 header_image: psm3.jpg
