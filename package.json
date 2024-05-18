@@ -3,6 +3,6 @@
     "build": "jampack ./_site"
   },
   "devDependencies": {
-    "@divriots/jampack": "^0.23.4"
+    "@divriots/jampack": "^0.24.3"
   }
 }
