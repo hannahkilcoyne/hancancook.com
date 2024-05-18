@@ -54,12 +54,6 @@ jobs:
         run: npm install
       - uses: actions/cache@v3
         with:
-          path: 'node_modules'
-          key: node_modules-${{ github.run_id }}
-          restore-keys: |
-            node_modules
-      - uses: actions/cache@v3
-        with:
           path: '.jampack'
           key: jampack-${{ github.run_id }}
           restore-keys: |
