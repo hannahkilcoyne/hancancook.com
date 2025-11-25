@@ -103,6 +103,16 @@
         font-size: 0.9em;
         text-align: center;
       }
+
+      @media print {
+        :root {
+          --size-base-font: 12pt;
+        }
+
+        body > header nav {
+          display: none;
+        }
+      }
     </style>
 
     {% feed_meta %}
